@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Biodiversity and Spatial Information Center, USGS North Carolina Cooperative Fish and Wildlife Research Unit, NC State University</origin>
+				<pubdate>20080825</pubdate>
+				<title Sync="TRUE">lc_segap_al</title>
+				<geoform Sync="TRUE">raster digital data</geoform>
+				<ftname Sync="TRUE">lc_segap_al</ftname><onlink Sync="TRUE">\\Glaurung\Ilex\Proj\SEGap\SE01_mosaic\mosaic_segap2001\segap_lc_web_deliverables\lc_segap_al\lc_segap_al</onlink></citeinfo>
+		</citation>
+		<descript>
+			<abstract>Multi-season satellite imagery (Landsat ETM+) from 1999-2001 were used in conjunction with digital elevation model (DEM) derived datasets (e.g. elevation, landform) to model natural and semi-natural vegetation. General land cover classes (i.e. water, urban, row crop) were included from the National Land Cover Dataset 2001 (&lt;http://www.epa.gov/mrlc/nlcd-2001.html&gt;). The minimum mapping unit for this dataset is 0.4 ha (1 acre). Vegetation classes were drawn from NatureServe's Ecological System Classification (Comer et al. 2003; &lt;http://www.natureserve.org/explorer/classeco.htm&gt;). Two hundred fourteen (214) land cover classes (140 Ecological Systems, 32 modified classes, and 42 general land cover classes recognized as occurring in the 13 USGS mapping zones comprising the Southeast region were mapped. Land cover classes were mapped with a variety of techniques including decision tree classifiers, unsupervised classification, and expert decision rules. The 13 USGS mapping zones were mapped independently of one another by one of three cooperating spatial analysis laboratories:
+1. Biodiversity and Spatial Information Center, North Carolina State University, Raleigh, NC 27695-7617.
+2. Alabama Gap Project, Alabama Cooperative Fish &amp; Wildlife Research Unit, Auburn University, Alabama 36839.
+3. Natural Resources and Spatial Analysis Laboratory (NARSAL), University of Georgia, Athens Georgia 30602.
+An internal validation for modeled classes is in progress. Results of the validation will be presented in the project final report.</abstract>
+			<purpose>The digital land cover dataset may be used for various purposes with user's discretion. Specifically, this dataset was created for regional terrestrial biodiversity assessment. These data are not intended to be used at scales larger than 1:100,000.</purpose>
+			<supplinf>Current Version - segap_13oct10
+
+This version corrects coding errors where areas of Atlantic Coastal Plain Sea Island Beach (Class 10, CES203.383) between the St. John's River (FL) and  Savannah, GA were incorrectly labelled as Atlantic Coastal Southern Beach (Class 11, CES203.535) and  Soutwest Florida Beach (Class 15, CES411.276).
+
+Previous Version - segap_29mar10
+
+This version reflects the following changes made to the sandy beach classes of Florida. Unconsolidated Shore (Beach/Dune) along the Gulf Coast in mapping zones 46 and 55 was re-coded to Florida Panhandle Beach Vegetation (Class 12). Unconsolidated Shore (Beach/Dune) along the Atlantic Coast in mapping zone 55 was re-coded to Southwest Florida Beach (Class 15).  Atlantic Coastal Plain Upland Longleaf Pine Woodland (Class 93)in Zone 60 was re-coded to Northern Atlantic Coastal Plain Pitch Pine Barrens - Pine Modifier (Class 120). The official release date for this version is 29 March 2010.
+
+Previous Version - segap_25aug08
+
+This version includes corrections of a recoding error that incorrectly labeled Row Crop (Class 149) as Utility Swath-Herbaceous (Class 147) in the Piedmont of North and South Carolina (Mapping Zone 59). The official release date for this version is 25 August 2008.
+
+Previous Version - segap_21may08
+
+This land cover data layer was updated to reflect errors associated with ecological systems range contradictions and minor recoding errors associated with the mapping zone mosaic operation.  Some of the more extensive edits increased the pixels of Class 146 (grassland/herbaceous class - clearcut) in Zone 46, increased the pixels of Class 91 (Atlantic Coastal Plain Fall-line Sandhills Longleaf Pine Woodland) and added Class 64 (Atlantic Coastal Plain Xeric River Dune) in Zone 55, and recoding Class 102 (Allegheny-Cumberland Dry Oak Forest and Woodland - Pine Modifier) to Class 38 (Allegheny-Cumberland Dry Oak Forest and Woodland - Hardwood Modifier) in Zone 53. The official release date for this version is 21 May 2008.</supplinf>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>1999</begdate>
+					<endtime>2001</endtime>
+				</rngdates>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-88.662384</westbc>
+				<eastbc Sync="TRUE">-84.446097</eastbc>
+				<northbc Sync="TRUE">35.184923</northbc>
+				<southbc Sync="TRUE">29.897373</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">704888.773000</leftbc><rightbc Sync="TRUE">1044938.773000</rightbc><bottombc Sync="TRUE">817712.078000</bottombc><topbc Sync="TRUE">1376492.078000</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>none</themekt>
+				<themekey>land cover</themekey>
+				<themekey>vegetation mapping</themekey>
+			</theme>
+			<place>
+				<placekey>Southeast US</placekey>
+				<placekey>Alabama</placekey>
+				<placekey>Florida</placekey>
+				<placekey>Georgia</placekey>
+				<placekey>Kentucky</placekey>
+				<placekey>Mississippi</placekey>
+				<placekey>North Carolina</placekey>
+				<placekey>South Carolina</placekey>
+				<placekey>Tennessee</placekey>
+				<placekey>Virginia</placekey>
+			</place>
+		</keywords>
+		<accconst>none</accconst>
+		<useconst>Appropriate scale for these data is 1: 100,000 or smaller. The user assumes responsiblity when using this dataset.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Alexa McKerrow</cntper>
+					<cntorg>Biodiversity and Spatial Information Center, USGS North Carolina Cooperative Fish and Wildlife Research Unit, NC State University</cntorg>
+				</cntperp>
+				<cntpos>Land Cover Mapping Coordinator</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>127 David Clark Labs</address>
+					<address>Department of Biology, NCSU</address>
+					<address>Campus Box 7617</address>
+					<city>Raleigh</city>
+					<state>NC</state>
+					<postal>27695-7617</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>919-513-2852</cntvoice>
+				<cntfax>919-515-4454</cntfax>
+				<cntemail>Alexa_McKerrow@ncsu.edu</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.2.6.1500</native>
+		<natvform Sync="TRUE">Raster Dataset</natvform></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Model validation for this dataset is ongoing. Results of validation will be available in the Southeast Regional Gap Final Report, and are not available with this dataset.</attraccr>
+		</attracc>
+		<logic>Not applicable for raster data</logic>
+		<complete>All cells within the Southest regional boundary have an attributed CODE and DESCRIPTION. See Process_Description for more details.</complete>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>United States Geological Survey, EROS Data Center, National Elevation Dataset</origin>
+						<pubdate>1999</pubdate>
+						<title>30 Meter Digital Elevation Model</title>
+						<geoform>raster digital data</geoform>
+						<onlink>&lt;http://ned.usgs.gov/&gt;</onlink>
+					</citeinfo>
+				</srccite>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>United States Geological Survey, EROS Data Center, Multi-Resolution Land Characteristics Consortium</origin>
+						<pubdate>1999-2001</pubdate>
+						<title>Landsat 7 , ETM+ Imagery</title>
+						<geoform>raster digital data</geoform>
+						<onlink>&lt;http://www.mrlc.gov/index.asp&gt;</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>digital</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>1999</begdate>
+							<endtime>2001</endtime>
+						</rngdates>
+					</timeinfo>
+				</srctime>
+				<srccitea>USGS</srccitea>
+				<srccontr>Landsat 7 ETM+ Imagery provided for Spring, Summer and Fall dates between 1999 and 2001</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Land cover mapping for the Southeast Region Gap Analysis Project was a cooperative effort of three spatial analysis laboratories. Each group was responsible for ancillary data layer preparation, training sample collection and land cover modeling. The BASIC lab coordinated the activities of the land cover mapping teams, to assure as much regional standardization as possible. Detailed documentation on process steps will be included in the project final report. The following provides a brief outline of the process steps. USGS National Land Cover Dataset Mapping Zone assignments - The southeast region contains all or part of 13 NLCD 2001 mapping zones (&lt;http://landcover.usgs.gov/pdf/homer.pdf&gt;) across 11 states.
+Land cover mapping for each zone was assigned to one of the three cooperating groups in such a way as to take advantage of prior knowledge, local expertise, and prior or ongoing research activity. Zone 46 was completed by the Alabama GAP Analysis Project based at Auburn University. Zones 45, 48, 55, 56, 58, 60, adn 61 were mapped by BASIC personnel at North Carolina State University. Zones 47, 53, 54, and 59 were mapped by NARSAL personnel at University of Georgia. Land cover mapping -- Each mapping team used a variety of mapping methods to model ecological systems in their assigned zones. Where applicable, decision tree classifiers were used. Decision tree classification was implemented through the use of a custom interface for ERDAS Imagine (developed under contract by Earthsat, Corp. for USGS EROS Data Center) and See5 software (www.rulequest.com).
+Land cover types that were not mapped using decision tree classifiers typically had too few reference samples due to their sparse occurrence on the landscape or poor discrimination among or between spectrally similar cover classes (e.g. mesic vs. dry-mesic forested systems) to yield an acceptable result. Where the decision tree could not be used, other techniques such as localized unsupervised classification, area of interest inclusion/exclusion masks, and expert decision rules were used to map these cover classes. Map review, edits, and mosaic -- Mapping zones were mosaicked by the BASIC team. During the mosaic process, a limited number of gross errors were identified for editing prior to the generation of the final mosaic. These included erroneous data omission, recoding errors, and systems mistakenly mapped outside of NatureServe ranges.
+Data distribution -- The final product is an 8-bit ArcInfo grid or 8-bit ERDAS Imagine file covering the southeast region. The data are also available clipped to state boundaries.</procdesc>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">I:\Proj\SEGap\SE01_mosaic\mosaic_segap2001\segap_lc_web_deliverables\from_ftp\lc_segap\lc_segap\metadata.xml</srcused><date Sync="TRUE">20100402</date><time Sync="TRUE">18015900</time></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">I:\Proj\SEGap\SE01_mosaic\mosaic_segap2001\segap_lc_web_deliverables\lc_segap\segap_29mar10\metadata.xml</srcused><date Sync="TRUE">20101015</date><time Sync="TRUE">15024400</time></procstep><procstep><procdesc Sync="TRUE">Dataset moved.</procdesc><srcused Sync="TRUE">I:\Proj\SEGap\SE01_mosaic\mosaic_segap2001\segap_lc_web_deliverables\lc_segap\segap_13oct10</srcused><date Sync="TRUE">20101025</date><time Sync="TRUE">14554200</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">I:\Proj\SEGap\SE01_mosaic\mosaic_segap2001\segap_lc_web_deliverables\lc_segap\old\segap_13oct10</srcused><date Sync="TRUE">20101025</date><time Sync="TRUE">15112700</time></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">I:\Proj\SEGap\SE01_mosaic\mosaic_segap2001\segap_lc_web_deliverables\lc_segap\lc_segap\metadata.xml</srcused><date Sync="TRUE">20101025</date><time Sync="TRUE">15371100</time></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Raster</direct>
+		<rastinfo>
+			<rasttype Sync="TRUE">Grid Cell</rasttype>
+			<rowcount Sync="TRUE">18626</rowcount>
+			<colcount Sync="TRUE">11335</colcount>
+			<vrtcount Sync="TRUE">1</vrtcount>
+			<rastxsz Sync="TRUE">30.000000</rastxsz><rastysz Sync="TRUE">30.000000</rastysz><rastbpp Sync="TRUE">8</rastbpp><rastorig Sync="TRUE">Upper Left</rastorig><rastcmap Sync="TRUE">TRUE</rastcmap><rastcomp Sync="TRUE">Default</rastcomp><rastband Sync="TRUE">1</rastband><rastdtyp Sync="TRUE">matrix coded</rastdtyp><rastplyr Sync="TRUE">FALSE</rastplyr><rastifor Sync="TRUE"></rastifor></rastinfo>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">row and column</plance>
+					<coordrep>
+						<absres Sync="TRUE">30.000000</absres>
+						<ordres Sync="TRUE">30.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+				<mapproj><mapprojn Sync="TRUE">Albers Conical Equal Area</mapprojn><albers><stdparll Sync="TRUE">29.500000</stdparll><stdparll Sync="TRUE">45.500000</stdparll><longcm Sync="TRUE">-96.000000</longcm><latprjo Sync="TRUE">23.000000</latprjo><feast Sync="TRUE">0.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></albers></mapproj></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">NAD_1983_Albers</projcsn></cordsysn></horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="lc_segap_al.vat">
+			<enttyp>
+				<enttypl Sync="TRUE">lc_segap_al.vat</enttypl>
+				<enttypd>ArcInfo attribute table</enttypd>
+				<enttypt Sync="TRUE">Table</enttypt><enttypc Sync="TRUE">88</enttypc></enttyp>
+			<attr>
+				<attrlabl>Value</attrlabl>
+				<attalias Sync="TRUE">VALUE</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>Count</attrlabl>
+				<attalias Sync="TRUE">COUNT</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>Rowid</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">OPACITY</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>VALUE</attrlabl>
+				<attrdef>Digital class value</attrdef>
+				<attalias Sync="TRUE">BLUE</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>COUNT</attrlabl>
+				<attrdef>Number of 30 m x 30 m pixels per class</attrdef>
+				<attalias Sync="TRUE">RED</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr><attrlabl Sync="TRUE">BLUE</attrlabl><attalias Sync="TRUE">GREEN</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">RED</attrlabl><attalias Sync="TRUE">Rowid</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">GREEN</attrlabl><attalias Sync="TRUE">NAME</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">100</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">OPACITY</attrlabl><attalias Sync="TRUE">OPACITY</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">CLASS_NAMES</attrlabl><attalias Sync="TRUE">CLASS_NAMES</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">100</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr></detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>
+Name</enttypl>
+				<enttypd>NatureServe Ecological System name</enttypd>
+			</enttyp>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>
+Color</enttypl>
+				<enttypd>class color</enttypd>
+			</enttyp>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>
+Code</enttypl>
+				<enttypd>alpha-numeric NatureServe Ecological System code</enttypd>
+			</enttyp>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>
+Count</enttypl>
+				<enttypd>the number of pixels for that class</enttypd>
+			</enttyp>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>
+Red</enttypl>
+				<enttypd>Red color value</enttypd>
+				<enttypds>red color value</enttypds>
+			</enttyp>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>
+Green</enttypl>
+				<enttypd>Green color value</enttypd>
+			</enttyp>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>
+Blue</enttypl>
+				<enttypd>Blue color value</enttypd>
+			</enttyp>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>
+Opacity</enttypl>
+				<enttypd>transparency level</enttypd>
+			</enttyp>
+		</detailed>
+		<overview>
+			<eaover>A complete description for each class is available in the document "Ecological Systems Descriptions for the Southeast Regional Gap Project" found at &lt;http://www.basic.ncsu.edu/segap/&gt;
+Value Code Name
+
+1 SEGAP111 Open Water (Fresh)
+2 SEGAP112 Open Water (Brackish/Salt)
+3 SEGAP113 Open Water (Aquaculture)
+4 SEGAP211 Developed Open Space
+5 SEGAP220 Low Intensity Developed
+6 SEGAP230 Medium Intensity Developed
+7 SEGAP240 High Intensity Developed
+9 CES203.301 Atlantic Coastal Plain Northern Sandy Beach
+10 CES203.383 Atlantic Coastal Plain Sea Island Beach
+11 CES203.535 Atlantic Coastal Plain Southern Beach
+12 CES203.266 Florida Panhandle Beach Vegetation
+13 CES411.271 South Florida Shell Hash Beach
+14 CES411.272 Southeast Florida Beach
+15 CES411.276 Southwest Florida Beach
+16 SEGAP311 Bare Sand
+17 SEGAP312 Bare Soil
+18 SEGAP313 Quarry/Strip Mine/Gravel Pit
+19 CES202.327 Southern Appalachian Rocky Summit
+20 CES202.297 Southern Appalachian Granitic Dome
+21 CES202.601 North-Central Appalachian Acidic Cliff and Talus
+22 CES202.603 North-Central Appalachian Circumneutral Cliff and Talus
+24 CES202.690 Central Interior Calcareous Cliff and Talus
+25 CES202.689 Central Interior Acidic Cliff and Talus
+26 CES202.330 Southern Appalachian Montane Cliff
+28 CES202.309 Southern Interior Acid Cliff
+29 CES202.356 Southern Interior Calcareous Cliff
+30 CES202.386 Southern Piedmont Cliff
+32 CES203.492 East Gulf Coastal Plain Dry Chalk Bluff
+33 CES202.329 Southern Piedmont Granite Flatrock
+35 SEGAP321 Unconsolidated Shore (Lake/River/Pond)
+36 SEGAP322 Unconsolidated Shore (Beach/Dune)
+37 SEGAP410 Deciduous Plantations
+38 CES202.359b Allegheny-Cumberland Dry Oak Forest and Woodland - Pine Modifier
+39 CES203.241 Atlantic Coastal Plain Dry and Dry-Mesic Oak Forest
+40 CES203.242 Atlantic Coastal Plain Mesic Hardwood and Mixed Forest
+42 CES202.596 Central and Southern Appalachian Montane Oak Forest
+43 CES202.029 Central and Southern Appalachian Northern Hardwood Forest
+44 CES203.506b East Gulf Coastal Plain Interior Shortleaf Pine-Oak Forest - Hardwood Modifier
+45 CES203.502 East Gulf Coastal Plain Limestone Forest
+46 CES203.483a East Gulf Coastal Plain Northern Dry Upland Hardwood Forest
+47 CES203.481 East Gulf Coastal Plain Northern Loess Bluff Forest
+48 CES203.482a East Gulf Coastal Plain Northern Loess Plain Oak-Hickory Upland - Hardwood Modifier
+49 CES203.477 East Gulf Coastal Plain Northern Mesic Hardwood Forest
+50 CES203.556 East Gulf Coastal Plain Southern Loess Bluff Forest
+51 CES203.476 East Gulf Coastal Plain Southern Mesic Slope Forest
+52 CES202.592a Northeastern Interior Dry Oak Forest-Hardwood Modifier
+53 CES202.898 South-Central Interior Highlands Dry Oak Forest
+54 CES202.887 South-Central Interior Mesophytic Forest
+55 CES202.373 Southern and Central Appalachian Cove Forest
+56 CES202.886 Southern and Central Appalachian Oak Forest
+57 CES203.560 Southern Coastal Plain Dry Upland Hardwood Forest
+60 CES202.457b Southern Ridge and Valley Dry Calcareous Forest - Hardwood Modifier
+61 CES203.254d Atlantic Coastal Plain Fall-line Sandhills Longleaf Pine Woodland - Offsite Hardwood Modifier
+62 CES203.496d East Gulf Coastal Plain Interior Upland Longleaf Pine Woodland - Offsite Hardwood Modifier
+63 CES203.479a East Gulf Coastal Plain Jackson Plain Dry Flatwoods - Open Understory Modifier
+64 CES203.497 Atlantic Coastal Plain Xeric River Dune
+66 CES202.339a Southern Piedmont Dry Oak-(Pine) Forest - Hardwood Modifier
+68 CES202.342 Southern Piedmont Mesic Forest
+69 CES203.478b East Gulf Coastal Plain Black Belt Calcareous Prairie and Woodland - Herbaceous Modifier
+70 CES203.475 Northern Atlantic Coastal Plain Dry Hardwood Forest
+71 SEGAP420 Evergreen Plantations
+72 CES203.261 Atlantic Coastal Plain Central Maritime Forest
+73 CES203.302 Atlantic Coastal Plain Northern Maritime Forest
+74 CES203.537 Atlantic Coastal Plain Southern Maritime Forest
+75 CES202.028 Central and Southern Appalachian Spruce-Fir Forest
+76 CES203.284a Central Florida Upland Longleaf Pine Island - Open Understory Modifier
+77 CES203.284b Central Florida Upland Longleaf Pine Island - Scrub/Shrub Understory Modifier
+79 CES203.503 East Gulf Coastal Plain Maritime Forest
+80 CES203.482b East Gulf Coastal Plain Northern Loess Plain Oak-Hickory Upland - Juniper Modifier
+82 CES202.592b Northeastern Interior Dry Oak Forest - Virginia/Pitch Pine Modifier
+83 CES411.287 South Florida Hardwood Hammock
+84 CES411.369 Southeast Florida Coastal Strand and Maritime Hammock
+85 CES202.332 Southern Appalachian Low Mountain Pine Forest
+86 CES202.339b Southern Piedmont Dry Oak-(Pine) Forest - Loblolly Pine Modifier
+87 CES202.023b Southern Piedmont Dry Oak-Heath Forest - Virginia/Pitch Pine Modifier
+88 CES411.368 Southwest Florida Coastal Strand and Maritime Hammock
+90 CES203.254c Atlantic Coastal Plain Fall-Line Sandhills Longleaf Pine Woodland - Loblolly Modifier
+91 CES203.254a Atlantic Coastal Plain Fall-line Sandhills Longleaf Pine Woodland - Open Understory Modifier
+92 CES203.254b Atlantic Coastal Plain Fall-line Sandhills Longleaf Pine Woodland - Scrub/Shrub Understory Modifier
+93 CES203.281 Atlantic Coastal Plain Longleaf Pine Woodland
+94 CES203.496c East Gulf Coastal Plain Interior Upland Longleaf Pine Woodland - Loblolly Modifier
+95 CES203.496a East Gulf Coastal Plain Interior Upland Longleaf Pine Woodland - Open Understory Modifier
+96 CES203.496b East Gulf Coastal Plain Interior Upland Longleaf Pine Woodland - Scrub/Shrub Modifier
+97 CES411.367 South Florida Pine Rockland
+98 CES202.331 Southern Appalachian Montane Pine Forest and Woodland
+99 CES203.494 Southern Coastal Plain Oak Dome and Hammock
+100 CES202.319 Southern Piedmont Longleaf Pine Woodland
+101 CES203.483b East Gulf Coastal Plain Northern Dry Upland Hardwood Forest - Offsite Pine Modifier
+102 CES202.359a Allegheny-Cumberland Dry Oak Forest and Woodland - Hardwood Modifier
+103 CES202.457a Southern Ridge and Valley Dry Calcareous Forest - Pine Modifier
+104 CES202.593 Appalachian Hemlock-Hardwood Forest
+105 CES202.591 Central Appalachian Oak and Pine Forest
+106 CES203.506a East Gulf Coastal Plain Interior Shortleaf Pine-Oak Forest - Mixed Modifier
+107 CES202.592c Northeastern Interior Dry Oak Forest - Mixed Modifier
+108 CES202.339c Southern Piedmont Dry Oak-(Pine) Forest - Mixed Modifier
+109 CES202.023c Southern Piedmont Dry Oak-Heath Forest - Mixed Modifier
+113 CES202.600 Central Appalachian Pine-Oak Rocky Woodland
+116 CES202.337 Cumberland Sandstone Glade and Barrens
+117 CES202.334 Nashville Basin Limestone Glade
+118 CES202.024 Ridge and Valley Calcareous Valley Bottom Glade and Woodland
+119 CES202.328 Southern Piedmont Glade and Barrens
+120 CES203.269a Northern Atlantic Coastal Plain Pitch Pine Barrens - Pine Modifier
+121 CES203.269b Northern Atlantic Coastal Plain Pitch Pine Barrens - Oak Modifier
+123 CES202.294a Southern Appalachian Grass and Shrub Bald - Shrub Modifier
+124 CES203.057 Florida Peninsula Inland Scrub
+125 SEGAP511 Successional Shrub/Scrub (Clear Cut)
+126 SEGAP512 Successional Shrub/Scrub (Utility Swath)
+127 SEGAP513 Successional Shrub/Scrub (Other)
+130 CES202.294b Southern Appalachian Grass and Shrub Bald - Herbaceous Modifier
+132 CES203.478a East Gulf Coastal Plain Black Belt Calcareous Prairie and Woodland - Forest Modifier
+134 CES203.555 East Gulf Coastal Plain Jackson Prairie and Woodland
+135 CES202.354a Eastern Highland Rim Prairie and Barrens - Dry Modifier
+136 CES203.380 Florida Dry Prairie
+141 CES203.264 Atlantic Coastal Plain Northern Dune and Maritime Grassland
+142 CES203.273 Atlantic Coastal Plain Southern Dune and Maritime Grassland
+143 CES203.500 East Gulf Coastal Plain Dune and Coastal Grassland
+144 CES203.539 Southwest Florida Dune and Coastal Grassland
+145 SEGAP710 Successional Grassland/Herbaceous
+146 SEGAP720 Successional Grassland/Herbaceous (Other)
+147 SEGAP730 Successional Grassland/Herbaceous (Utility Swath)
+148 SEGAP810 Pasture/Hay 149 SEGAP820 Row Crop
+151 CES203.247a Atlantic Coastal Plain Blackwater Stream Floodplain Forest - Forest Modifier
+152 CES203.248 Atlantic Coastal Plain Brownwater Stream Floodplain Forest
+153 CES203.249 Atlantic Coastal Plain Small Blackwater River Floodplain Forest
+154 CES203.250 Atlantic Coastal Plain Small Brownwater River Floodplain Forest
+155 CES202.608a Central Appalachian Floodplain - Forest Modifier
+156 CES202.609a Central Appalachian Riparian - Forest Modifier
+157 CES203.489a East Gulf Coastal Plain Large River Floodplain Forest - Forest Modifier
+158 CES203.559 East Gulf Coastal Plain Small Stream and River Floodplain Forest
+159 CES203.195 Mississippi River Low Floodplain (Bottomland) Forest
+160 CES203.490a Lower Mississippi River Bottomland Depressions - Forest Modifier
+161 CES202.705a South-Central Interior Large Floodplain - Forest Modifier
+162 CES202.706 South-Central Interior Small Stream and Riparian
+163 CES203.493 Southern Coastal Plain Blackwater River Floodplain Forest
+164 CES202.324a Southern Piedmont Large Floodplain Forest - Forest Modifier
+165 CES202.323 Southern Piedmont Small Floodplain and Riparian Forest
+166 CES203.190 Mississippi River Riparian Forest
+167 CES203.304b Atlantic Coastal Plain Nonriverine Swamp and Wet Hardwood Forest - Taxodium/Nyssa Modifier
+168 CES203.304a Atlantic Coastal Plain Nonriverine Swamp and Wet Hardwood Forest - Oak Dominated Modifier
+169 CES203.384a Southern Coastal Plain Nonriverine Basin Swamp - Okefenokee Taxodium Modifier
+170 CES203.384b Southern Coastal Plain Nonriverine Basin Swamp - Okefenokee Bay/Gum Modifier
+171 CES203.384c Southern Coastal Plain Nonriverine Basin Swamp - Okefenokee Pine Modifier
+172 CES411.366 South Florida Bayhead Swamp
+173 CES203.245a Atlantic Coastal Plain Clay-Based Carolina Bay Forested Wetland
+174 CES203.520 Atlantic Coastal Plain Northern Basin Swamp and Wet Hardwood Forest
+175 CES203.267 Atlantic Coastal Plain Peatland Pocosin
+176 CES203.252 Atlantic Coastal Plain Streamhead Seepage Swamp, Pocosin, and Baygall
+177 CES203.384d Southern Coastal Plain Nonriverine Basin Swamp - Okefenokee Nupea Modifier
+178 CES203.384e Southern Coastal Plain Nonriverine Basin Swamp - Okefenokee Clethra Modifier
+179 CES203.384 Southern Coastal Plain Nonriverine Basin Swamp
+180 CES203.505 Southern Coastal Plain Seepage Swamp and Baygall
+182 CES202.336 Southern Piedmont/Ridge and Valley Upland Depression Swamp
+183 CES203.265 Atlantic Coastal Plain Northern Wet Longleaf Pine Savanna and Flatwoods
+184 CES203.536 Atlantic Coastal Plain Southern Wet Pine Savanna and Flatwoods
+185 CES203.382 Central Florida Pine Flatwoods
+186 CES203.375c East Gulf Coastal Plain Near-Coast Pine Flatwoods - Offsite Hardwood Modifier
+187 CES203.375a East Gulf Coastal Plain Near-Coast Pine Flatwoods - Open Understory Modifier
+188 CES203.375b East Gulf Coastal Plain Near-Coast Pine Flatwoods - Scrub/Shrub Understory Modifier
+189 CES203.557 East Gulf Coastal Plain Southern Loblolly-Hardwood Flatwoods
+190 CES411.290 South Florida Dwarf Cypress Savanna
+191 CES411.381 South Florida Pine Flatwoods
+192 CES203.480 South-Central Interior/Upper Coastal Plain Wet Flatwoods
+193 CES411.365 South Florida Cypress Dome
+194 CES203.501 Southern Coastal Plain Hydric Hammock
+195 CES203.251 Southern Coastal Plain Nonriverine Cypress Dome
+199 CES202.036 Cumberland Riverscour
+203 CES202.300 Southern and Central Appalachian Bog and Fen
+204 CES203.282 Atlantic Coastal Plain Northern Tidal Wooded Swamp
+205 CES203.240 Atlantic Coastal Plain Southern Tidal Wooded Swamp
+206 CES203.299 East Gulf Coastal Plain Tidal Wooded Swamp
+207 CES411.289 South Florida Mangrove Swamp
+213 CES203.376 Atlantic Coastal Plain Central Fresh-Oligohaline Tidal Marsh
+214 CES203.259 Atlantic Coastal Plain Embayed Region Tidal Freshwater Marsh
+215 CES203.516 Atlantic Coastal Plain Northern Fresh and Oligohaline Tidal Marsh
+216 CES203.507 Florida Big Bend Fresh-Oligohaline Tidal Marsh
+217 CES203.258 Atlantic and Gulf Coastal Plain Interdunal Wetland
+218 CES203.262 Atlantic Coastal Plain Depression Pondshore
+219 CES203.044 Atlantic Coastal Plain Large Natural Lakeshore
+221 CES203.890 Central Florida Herbaceous Pondshore
+223 CES203.504 East Gulf Coastal Plain Southern Depression Pondshore
+225 CES203.245b Atlantic Coastal Plain Clay-Based Carolina Bay Herbaceous Wetland
+227 CES203.491 Central Florida Herbaceous Seep
+228 CES203.077 Floridian Highlands Freshwater Marsh
+229 CES411.485 South Florida Freshwater Slough and Gator Hole
+231 CES203.078 Southern Coastal Plain Herbaceous Seepage Bog
+233 CES203.192 East Gulf Coastal Plain Treeless Savanna and Wet Prairie
+234 CES411.370 South Florida Wet Marl Prairie
+238 CES203.489b East Gulf Coastal Plain Large River Floodplain Forest - Herbaceous Modifier
+240 CES202.705b South-Central Interior Large Floodplain - Herbaceous Modifier
+245 CES203.270 Atlantic Coastal Plain Central Salt and Brackish Tidal Marsh
+246 CES203.260 Atlantic Coastal Plain Embayed Region Tidal Salt and Brackish Marsh
+247 CES203.257 Atlantic Coastal Plain Indian River Lagoon Tidal Marsh
+248 CES203.519 Atlantic Coastal Plain Northern Tidal Salt Marsh
+249 CES203.508 Florida Big Bend Salt-Brackish Tidal Marsh
+250 CES203.303 Mississippi Sound Salt and Brackish Tidal Marsh
+251 CES411.286 South Florida Everglades Sawgrass Marsh
+253 CES202.886b Southern and Central Appalachian Oak Forest - Xeric</eaover>
+			<eadetcit>NatureServe. October 2006. Descriptions of Ecological Systems for Modeling of LANDFIRE Biophysical Settings.</eadetcit>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntperp>
+					<cntper>Alexa McKerrow</cntper>
+					<cntorg>Biodiversity and Spatial Information Center, USGS North Carolina Cooperative Fish and Wildlife Research Unit, NC State University</cntorg>
+				</cntperp>
+				<cntpos>Landcover Coordinator</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>127 David Clark Labs</address>
+					<address>Department of Biology, NCSU</address>
+					<address>Campus Box 7617</address>
+					<city>Raleigh</city>
+					<state>NC</state>
+					<postal>27695-7617</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>919-513-2853</cntvoice>
+				<cntfax>919-515-4454</cntfax>
+				<cntemail>Alexa_McKerrow@ncsu.edu</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>The BASIC Laboratory, North Carolina State University nor any institution responsible for creating this dataset are responsible for the re-distribution, content, or use of these data.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">96.496</transize>
+					<dssize Sync="TRUE">96.496</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://www.basic.ncsu.edu/segap/datazip/region/lc_segap.zip</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20101025</metd>
+		<metc>
+			<cntinfo>
+				<cntpos>Plant Community Ecologist and RS Specialist</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>127 David Clark Labs</address>
+					<address>Department of Biology, NCSU</address>
+					<address>Campus Box 7617</address>
+					<city>Raleigh</city>
+					<state>NC</state>
+					<postal>27695-7617</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>919-513-7292</cntvoice>
+				<cntemail>Todd_Earnhardt@ncsu.edu</cntemail>
+				<cntperp><cntper>Todd Earnhardt</cntper><cntorg>Biodiversity and Spatial Information Center, USGS North Carolina Cooperative Fish and Wildlife Research Unit, NC State University</cntorg></cntperp><cntfax>919-515-4454</cntfax></cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>&lt;http://www.esri.com/metadata/esriprof80.html&gt;</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>&lt;http://www.esri.com/metadata/esriprof80.html&gt;</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>&lt;http://www.esri.com/metadata/esriprof80.html&gt;</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20101025</CreaDate><CreaTime>15371100</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20101025</SyncDate><SyncTime>15414900</SyncTime><ModDate>20101025</ModDate><ModTime>15414900</ModTime><MetaID>{5E75296D-032F-4F0D-9FDE-DD6DB174DF75}</MetaID></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.2.6.1500</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">lc_segap_al</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="002"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">704888.773</westBL><eastBL Sync="TRUE">1044938.773</eastBL><northBL Sync="TRUE">1376492.078</northBL><southBL Sync="TRUE">817712.078</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-88.662384</westBL><eastBL Sync="TRUE">-84.446097</eastBL><northBL Sync="TRUE">35.184923</northBL><southBL Sync="TRUE">29.897373</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><linkage Sync="TRUE">file://\\Glaurung\Ilex\Proj\SEGap\SE01_mosaic\mosaic_segap2001\segap_lc_web_deliverables\lc_segap_al\lc_segap_al</linkage><protocol Sync="TRUE">Local Area Network</protocol><orDesc Sync="TRUE">002</orDesc></onLineSrc><transSize Sync="TRUE">96.496</transSize></distorTran><distorFormat><formatName Sync="TRUE">Raster Dataset</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">NAD_1983_Albers</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><GridSpatRep><numDims Sync="TRUE">2</numDims><cellGeo><CellGeoCd Sync="TRUE" value="002"></CellGeoCd></cellGeo><tranParaAv Sync="TRUE">1</tranParaAv><axDimProps><Dimen><dimName><DimNameTypCd Sync="TRUE" value="002"></DimNameTypCd></dimName><dimSize Sync="TRUE">11335</dimSize><dimResol><value Sync="TRUE">30</value><uom><UomLength><uomName Sync="TRUE">Meter</uomName><conversionToISOstandardUnit Sync="TRUE">1 Meter = 1 Meter(s)</conversionToISOstandardUnit></UomLength></uom></dimResol></Dimen><Dimen><dimName><DimNameTypCd Sync="TRUE" value="001"></DimNameTypCd></dimName><dimSize Sync="TRUE">18626</dimSize><dimResol><value Sync="TRUE">30</value><uom><UomLength><uomName Sync="TRUE">Meter</uomName><conversionToISOstandardUnit Sync="TRUE">1 Meter = 1 Meter(s)</conversionToISOstandardUnit></UomLength></uom></dimResol></Dimen></axDimProps></GridSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20101025</mdDateSt></metadata>
