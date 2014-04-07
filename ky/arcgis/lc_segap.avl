@@ -1,0 +1,6290 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Legend"
+	Roots:	2
+	Version:	32
+)
+
+(Legend.2
+	SymType:	0x02
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	3
+	Symbols:	4
+	Class:	785
+	Class:	786
+	Class:	787
+	Class:	788
+	Class:	789
+	Class:	790
+	Class:	791
+	Class:	792
+	Class:	793
+	Class:	794
+	Class:	795
+	Class:	796
+	Class:	797
+	Class:	798
+	Class:	799
+	Class:	800
+	Class:	801
+	Class:	802
+	Class:	803
+	Class:	804
+	Class:	805
+	Class:	806
+	Class:	807
+	Class:	808
+	Class:	809
+	Class:	810
+	Class:	811
+	Class:	812
+	Class:	813
+	Class:	814
+	Class:	815
+	Class:	816
+	Class:	817
+	Class:	818
+	Class:	819
+	Class:	820
+	Class:	821
+	Class:	822
+	Class:	823
+	Class:	824
+	Class:	825
+	Class:	826
+	Class:	827
+	Class:	828
+	Class:	829
+	Class:	830
+	Class:	831
+	Class:	832
+	Class:	833
+	Class:	834
+	Class:	835
+	Class:	836
+	Class:	837
+	Class:	838
+	Class:	839
+	Class:	840
+	Class:	841
+	Class:	842
+	Class:	843
+	Class:	844
+	Class:	845
+	Class:	846
+	Class:	847
+	Class:	848
+	Class:	849
+	Class:	850
+	Class:	851
+	Class:	852
+	Class:	853
+	Class:	854
+	Class:	855
+	Class:	856
+	Class:	857
+	Class:	858
+	Class:	859
+	Class:	860
+	Class:	861
+	Class:	862
+	Class:	863
+	Class:	864
+	Class:	865
+	Class:	866
+	Class:	867
+	Class:	868
+	Class:	869
+	Class:	870
+	Class:	871
+	Class:	872
+	Class:	873
+	Class:	874
+	Class:	875
+	Class:	876
+	Class:	877
+	Class:	878
+	Class:	879
+	Class:	880
+	Class:	881
+	Class:	882
+	Class:	883
+	Class:	884
+	Class:	885
+	Class:	886
+	Class:	887
+	Class:	888
+	Class:	889
+	Class:	890
+	Class:	891
+	Class:	892
+	Class:	893
+	Class:	894
+	Class:	895
+	Class:	896
+	Class:	897
+	Class:	898
+	Class:	899
+	Class:	900
+	Class:	901
+	Class:	902
+	Class:	903
+	Class:	904
+	Class:	905
+	Class:	906
+	Class:	907
+	Class:	908
+	Class:	909
+	Class:	910
+	Class:	911
+	Class:	912
+	Class:	913
+	Class:	914
+	Class:	915
+	Class:	916
+	Class:	917
+	Class:	918
+	Class:	919
+	Class:	920
+	Class:	921
+	Class:	922
+	Class:	923
+	Class:	924
+	Class:	925
+	Class:	926
+	Class:	927
+	Class:	928
+	Class:	929
+	Class:	930
+	Class:	931
+	Class:	932
+	Class:	933
+	Class:	934
+	Class:	935
+	Class:	936
+	Class:	937
+	Class:	938
+	Class:	939
+	Class:	940
+	Class:	941
+	Class:	942
+	Class:	943
+	Class:	944
+	Class:	945
+	Class:	946
+	Class:	947
+	Class:	948
+	Class:	949
+	Class:	950
+	Class:	951
+	Class:	952
+	Class:	953
+	Class:	954
+	Class:	955
+	Class:	956
+	Class:	957
+	Class:	958
+	Class:	959
+	Class:	960
+	Class:	961
+	Class:	962
+	Class:	963
+	Class:	964
+	Class:	965
+	Class:	966
+	Class:	967
+	Class:	968
+	Class:	969
+	Class:	970
+	Class:	971
+	Class:	972
+	Class:	973
+	Class:	974
+	Class:	975
+	Class:	976
+	Class:	977
+	Class:	978
+	Class:	979
+	StdDevs:	1.00000000000000
+	NullSym:	980
+	NullValues:	984
+	StatValues:	985
+	DisplayNoDataClass:	1
+	LegendExts:	986
+	Precision:	-3
+)
+
+(AVStr.3
+	S:	"Value"
+)
+
+(SymList.4
+	Child:	5
+	Child:	9
+	Child:	13
+	Child:	17
+	Child:	21
+	Child:	25
+	Child:	29
+	Child:	33
+	Child:	37
+	Child:	41
+	Child:	45
+	Child:	49
+	Child:	53
+	Child:	57
+	Child:	61
+	Child:	65
+	Child:	69
+	Child:	73
+	Child:	77
+	Child:	81
+	Child:	85
+	Child:	89
+	Child:	93
+	Child:	97
+	Child:	101
+	Child:	105
+	Child:	109
+	Child:	113
+	Child:	117
+	Child:	121
+	Child:	125
+	Child:	129
+	Child:	133
+	Child:	137
+	Child:	141
+	Child:	145
+	Child:	149
+	Child:	153
+	Child:	157
+	Child:	161
+	Child:	165
+	Child:	169
+	Child:	173
+	Child:	177
+	Child:	181
+	Child:	185
+	Child:	189
+	Child:	193
+	Child:	197
+	Child:	201
+	Child:	205
+	Child:	209
+	Child:	213
+	Child:	217
+	Child:	221
+	Child:	225
+	Child:	229
+	Child:	233
+	Child:	237
+	Child:	241
+	Child:	245
+	Child:	249
+	Child:	253
+	Child:	257
+	Child:	261
+	Child:	265
+	Child:	269
+	Child:	273
+	Child:	277
+	Child:	281
+	Child:	285
+	Child:	289
+	Child:	293
+	Child:	297
+	Child:	301
+	Child:	305
+	Child:	309
+	Child:	313
+	Child:	317
+	Child:	321
+	Child:	325
+	Child:	329
+	Child:	333
+	Child:	337
+	Child:	341
+	Child:	345
+	Child:	349
+	Child:	353
+	Child:	357
+	Child:	361
+	Child:	365
+	Child:	369
+	Child:	373
+	Child:	377
+	Child:	381
+	Child:	385
+	Child:	389
+	Child:	393
+	Child:	397
+	Child:	401
+	Child:	405
+	Child:	409
+	Child:	413
+	Child:	417
+	Child:	421
+	Child:	425
+	Child:	429
+	Child:	433
+	Child:	437
+	Child:	441
+	Child:	445
+	Child:	449
+	Child:	453
+	Child:	457
+	Child:	461
+	Child:	465
+	Child:	469
+	Child:	473
+	Child:	477
+	Child:	481
+	Child:	485
+	Child:	489
+	Child:	493
+	Child:	497
+	Child:	501
+	Child:	505
+	Child:	509
+	Child:	513
+	Child:	517
+	Child:	521
+	Child:	525
+	Child:	529
+	Child:	533
+	Child:	537
+	Child:	541
+	Child:	545
+	Child:	549
+	Child:	553
+	Child:	557
+	Child:	561
+	Child:	565
+	Child:	569
+	Child:	573
+	Child:	577
+	Child:	581
+	Child:	585
+	Child:	589
+	Child:	593
+	Child:	597
+	Child:	601
+	Child:	605
+	Child:	609
+	Child:	613
+	Child:	617
+	Child:	621
+	Child:	625
+	Child:	629
+	Child:	633
+	Child:	637
+	Child:	641
+	Child:	645
+	Child:	649
+	Child:	653
+	Child:	657
+	Child:	661
+	Child:	665
+	Child:	669
+	Child:	673
+	Child:	677
+	Child:	681
+	Child:	685
+	Child:	689
+	Child:	693
+	Child:	697
+	Child:	701
+	Child:	705
+	Child:	709
+	Child:	713
+	Child:	717
+	Child:	721
+	Child:	725
+	Child:	729
+	Child:	733
+	Child:	737
+	Child:	741
+	Child:	745
+	Child:	749
+	Child:	753
+	Child:	757
+	Child:	761
+	Child:	765
+	Child:	769
+	Child:	773
+	Child:	777
+	Child:	781
+)
+
+(BShSym.5
+	Color:	6
+	Outline:	1
+	OutlineColor:	7
+	OutlineWidth:	0.10000000000000
+	BgColor:	8
+)
+
+(TClr.6
+	Red:	0x5b00
+	Green:	0x7500
+	Blue:	0xa300
+)
+
+(TClr.7
+)
+
+(TClr.8
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.9
+	Color:	10
+	Outline:	1
+	OutlineColor:	11
+	OutlineWidth:	0.10000000000000
+	BgColor:	12
+)
+
+(TClr.10
+	Red:	0x9e00
+	Green:	0xe000
+	Blue:	0xe500
+)
+
+(TClr.11
+)
+
+(TClr.12
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.13
+	Color:	14
+	Outline:	1
+	OutlineColor:	15
+	OutlineWidth:	0.10000000000000
+	BgColor:	16
+)
+
+(TClr.14
+	Red:	0x7700
+	Green:	0xc900
+	Blue:	0xea00
+)
+
+(TClr.15
+)
+
+(TClr.16
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.17
+	Color:	18
+	Outline:	1
+	OutlineColor:	19
+	OutlineWidth:	0.10000000000000
+	BgColor:	20
+)
+
+(TClr.18
+	Red:	0xf200
+	Green:	0xa800
+	Blue:	0xa300
+)
+
+(TClr.19
+)
+
+(TClr.20
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.21
+	Color:	22
+	Outline:	1
+	OutlineColor:	23
+	OutlineWidth:	0.10000000000000
+	BgColor:	24
+)
+
+(TClr.22
+	Red:	0xed00
+	Green:	0x7c00
+	Blue:	0x7500
+)
+
+(TClr.23
+)
+
+(TClr.24
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.25
+	Color:	26
+	Outline:	1
+	OutlineColor:	27
+	OutlineWidth:	0.10000000000000
+	BgColor:	28
+)
+
+(TClr.26
+	Red:	0xe800
+	Green:	0x5100
+	Blue:	0x4700
+)
+
+(TClr.27
+)
+
+(TClr.28
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.29
+	Color:	30
+	Outline:	1
+	OutlineColor:	31
+	OutlineWidth:	0.10000000000000
+	BgColor:	32
+)
+
+(TClr.30
+	Red:	0xb500
+	Green:	0x1e00
+	Blue:	0x1400
+)
+
+(TClr.31
+)
+
+(TClr.32
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.33
+	Color:	34
+	Outline:	1
+	OutlineColor:	35
+	OutlineWidth:	0.10000000000000
+	BgColor:	36
+)
+
+(TClr.34
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(TClr.35
+)
+
+(TClr.36
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.37
+	Color:	38
+	Outline:	1
+	OutlineColor:	39
+	OutlineWidth:	0.10000000000000
+	BgColor:	40
+)
+
+(TClr.38
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(TClr.39
+)
+
+(TClr.40
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.41
+	Color:	42
+	Outline:	1
+	OutlineColor:	43
+	OutlineWidth:	0.10000000000000
+	BgColor:	44
+)
+
+(TClr.42
+	Red:	0xf200
+	Green:	0xf200
+	Blue:	0xdb00
+)
+
+(TClr.43
+)
+
+(TClr.44
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.45
+	Color:	46
+	Outline:	1
+	OutlineColor:	47
+	OutlineWidth:	0.10000000000000
+	BgColor:	48
+)
+
+(TClr.46
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(TClr.47
+)
+
+(TClr.48
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.49
+	Color:	50
+	Outline:	1
+	OutlineColor:	51
+	OutlineWidth:	0.10000000000000
+	BgColor:	52
+)
+
+(TClr.50
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(TClr.51
+)
+
+(TClr.52
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.53
+	Color:	54
+	Outline:	1
+	OutlineColor:	55
+	OutlineWidth:	0.10000000000000
+	BgColor:	56
+)
+
+(TClr.54
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(TClr.55
+)
+
+(TClr.56
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.57
+	Color:	58
+	Outline:	1
+	OutlineColor:	59
+	OutlineWidth:	0.10000000000000
+	BgColor:	60
+)
+
+(TClr.58
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(TClr.59
+)
+
+(TClr.60
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.61
+	Color:	62
+	Outline:	1
+	OutlineColor:	63
+	OutlineWidth:	0.10000000000000
+	BgColor:	64
+)
+
+(TClr.62
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xe000
+)
+
+(TClr.63
+)
+
+(TClr.64
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.65
+	Color:	66
+	Outline:	1
+	OutlineColor:	67
+	OutlineWidth:	0.10000000000000
+	BgColor:	68
+)
+
+(TClr.66
+	Red:	0xff00
+	Green:	0xff00
+)
+
+(TClr.67
+)
+
+(TClr.68
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.69
+	Color:	70
+	Outline:	1
+	OutlineColor:	71
+	OutlineWidth:	0.10000000000000
+	BgColor:	72
+)
+
+(TClr.70
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(TClr.71
+)
+
+(TClr.72
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.73
+	Color:	74
+	Outline:	1
+	OutlineColor:	75
+	OutlineWidth:	0.10000000000000
+	BgColor:	76
+)
+
+(TClr.74
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(TClr.75
+)
+
+(TClr.76
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.77
+	Color:	78
+	Outline:	1
+	OutlineColor:	79
+	OutlineWidth:	0.10000000000000
+	BgColor:	80
+)
+
+(TClr.78
+	Red:	0xf200
+	Green:	0xf200
+	Blue:	0xdb00
+)
+
+(TClr.79
+)
+
+(TClr.80
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.81
+	Color:	82
+	Outline:	1
+	OutlineColor:	83
+	OutlineWidth:	0.10000000000000
+	BgColor:	84
+)
+
+(TClr.82
+	Red:	0xf200
+	Green:	0xf200
+	Blue:	0xdb00
+)
+
+(TClr.83
+)
+
+(TClr.84
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.85
+	Color:	86
+	Outline:	1
+	OutlineColor:	87
+	OutlineWidth:	0.10000000000000
+	BgColor:	88
+)
+
+(TClr.86
+	Red:	0xf200
+	Green:	0xf200
+	Blue:	0xdb00
+)
+
+(TClr.87
+)
+
+(TClr.88
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.89
+	Color:	90
+	Outline:	1
+	OutlineColor:	91
+	OutlineWidth:	0.10000000000000
+	BgColor:	92
+)
+
+(TClr.90
+	Red:	0xf200
+	Green:	0xf200
+	Blue:	0xdb00
+)
+
+(TClr.91
+)
+
+(TClr.92
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.93
+	Color:	94
+	Outline:	1
+	OutlineColor:	95
+	OutlineWidth:	0.10000000000000
+	BgColor:	96
+)
+
+(TClr.94
+	Red:	0xf200
+	Green:	0xf200
+	Blue:	0xdb00
+)
+
+(TClr.95
+)
+
+(TClr.96
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.97
+	Color:	98
+	Outline:	1
+	OutlineColor:	99
+	OutlineWidth:	0.10000000000000
+	BgColor:	100
+)
+
+(TClr.98
+	Red:	0xf200
+	Green:	0xf200
+	Blue:	0xdb00
+)
+
+(TClr.99
+)
+
+(TClr.100
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.101
+	Color:	102
+	Outline:	1
+	OutlineColor:	103
+	OutlineWidth:	0.10000000000000
+	BgColor:	104
+)
+
+(TClr.102
+	Red:	0xf200
+	Green:	0xf200
+	Blue:	0xdb00
+)
+
+(TClr.103
+)
+
+(TClr.104
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.105
+	Color:	106
+	Outline:	1
+	OutlineColor:	107
+	OutlineWidth:	0.10000000000000
+	BgColor:	108
+)
+
+(TClr.106
+	Red:	0xf200
+	Green:	0xf200
+	Blue:	0xdb00
+)
+
+(TClr.107
+)
+
+(TClr.108
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.109
+	Color:	110
+	Outline:	1
+	OutlineColor:	111
+	OutlineWidth:	0.10000000000000
+	BgColor:	112
+)
+
+(TClr.110
+	Red:	0xf200
+	Green:	0xf200
+	Blue:	0xdb00
+)
+
+(TClr.111
+)
+
+(TClr.112
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.113
+	Color:	114
+	Outline:	1
+	OutlineColor:	115
+	OutlineWidth:	0.10000000000000
+	BgColor:	116
+)
+
+(TClr.114
+	Red:	0xf200
+	Green:	0xf200
+	Blue:	0xdb00
+)
+
+(TClr.115
+)
+
+(TClr.116
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.117
+	Color:	118
+	Outline:	1
+	OutlineColor:	119
+	OutlineWidth:	0.10000000000000
+	BgColor:	120
+)
+
+(TClr.118
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(TClr.119
+)
+
+(TClr.120
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.121
+	Color:	122
+	Outline:	1
+	OutlineColor:	123
+	OutlineWidth:	0.10000000000000
+	BgColor:	124
+)
+
+(TClr.122
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(TClr.123
+)
+
+(TClr.124
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.125
+	Color:	126
+	Outline:	1
+	OutlineColor:	127
+	OutlineWidth:	0.10000000000000
+	BgColor:	128
+)
+
+(TClr.126
+	Red:	0xf200
+	Green:	0xad00
+	Blue:	0x6300
+)
+
+(TClr.127
+)
+
+(TClr.128
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.129
+	Color:	130
+	Outline:	1
+	OutlineColor:	131
+	OutlineWidth:	0.10000000000000
+	BgColor:	132
+)
+
+(TClr.130
+	Red:	0xd100
+	Green:	0xb200
+	Blue:	0x8c00
+)
+
+(TClr.131
+)
+
+(TClr.132
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.133
+	Color:	134
+	Outline:	1
+	OutlineColor:	135
+	OutlineWidth:	0.10000000000000
+	BgColor:	136
+)
+
+(TClr.134
+	Red:	0xa500
+	Green:	0xa800
+	Blue:	0x5400
+)
+
+(TClr.135
+)
+
+(TClr.136
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.137
+	Color:	138
+	Outline:	1
+	OutlineColor:	139
+	OutlineWidth:	0.10000000000000
+	BgColor:	140
+)
+
+(TClr.138
+	Red:	0x4c00
+	Green:	0xaf00
+	Blue:	0x8e00
+)
+
+(TClr.139
+)
+
+(TClr.140
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.141
+	Color:	142
+	Outline:	1
+	OutlineColor:	143
+	OutlineWidth:	0.10000000000000
+	BgColor:	144
+)
+
+(TClr.142
+	Red:	0x8900
+	Green:	0xba00
+	Blue:	0xf00
+)
+
+(TClr.143
+)
+
+(TClr.144
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.145
+	Color:	146
+	Outline:	1
+	OutlineColor:	147
+	OutlineWidth:	0.10000000000000
+	BgColor:	148
+)
+
+(TClr.146
+	Red:	0xa300
+	Green:	0xc600
+	Blue:	0x3f00
+)
+
+(TClr.147
+)
+
+(TClr.148
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.149
+	Color:	150
+	Outline:	1
+	OutlineColor:	151
+	OutlineWidth:	0.10000000000000
+	BgColor:	152
+)
+
+(TClr.150
+	Red:	0xd100
+	Green:	0xb200
+	Blue:	0x8c00
+)
+
+(TClr.151
+)
+
+(TClr.152
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.153
+	Color:	154
+	Outline:	1
+	OutlineColor:	155
+	OutlineWidth:	0.10000000000000
+	BgColor:	156
+)
+
+(TClr.154
+	Red:	0xd100
+	Green:	0xb200
+	Blue:	0x8c00
+)
+
+(TClr.155
+)
+
+(TClr.156
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.157
+	Color:	158
+	Outline:	1
+	OutlineColor:	159
+	OutlineWidth:	0.10000000000000
+	BgColor:	160
+)
+
+(TClr.158
+	Red:	0xd100
+	Green:	0xb200
+	Blue:	0x8c00
+)
+
+(TClr.159
+)
+
+(TClr.160
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.161
+	Color:	162
+	Outline:	1
+	OutlineColor:	163
+	OutlineWidth:	0.10000000000000
+	BgColor:	164
+)
+
+(TClr.162
+	Red:	0xd100
+	Green:	0xb200
+	Blue:	0x8c00
+)
+
+(TClr.163
+)
+
+(TClr.164
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.165
+	Color:	166
+	Outline:	1
+	OutlineColor:	167
+	OutlineWidth:	0.10000000000000
+	BgColor:	168
+)
+
+(TClr.166
+	Red:	0xd100
+	Green:	0xb200
+	Blue:	0x8c00
+)
+
+(TClr.167
+)
+
+(TClr.168
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.169
+	Color:	170
+	Outline:	1
+	OutlineColor:	171
+	OutlineWidth:	0.10000000000000
+	BgColor:	172
+)
+
+(TClr.170
+	Red:	0xd100
+	Green:	0xb200
+	Blue:	0x8c00
+)
+
+(TClr.171
+)
+
+(TClr.172
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.173
+	Color:	174
+	Outline:	1
+	OutlineColor:	175
+	OutlineWidth:	0.10000000000000
+	BgColor:	176
+)
+
+(TClr.174
+	Red:	0xd100
+	Green:	0xb200
+	Blue:	0x8c00
+)
+
+(TClr.175
+)
+
+(TClr.176
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.177
+	Color:	178
+	Outline:	1
+	OutlineColor:	179
+	OutlineWidth:	0.10000000000000
+	BgColor:	180
+)
+
+(TClr.178
+	Red:	0xd100
+	Green:	0xb200
+	Blue:	0x8c00
+)
+
+(TClr.179
+)
+
+(TClr.180
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.181
+	Color:	182
+	Outline:	1
+	OutlineColor:	183
+	OutlineWidth:	0.10000000000000
+	BgColor:	184
+)
+
+(TClr.182
+	Red:	0x4700
+	Green:	0xaf00
+	Blue:	0x5900
+)
+
+(TClr.183
+)
+
+(TClr.184
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.185
+	Color:	186
+	Outline:	1
+	OutlineColor:	187
+	OutlineWidth:	0.10000000000000
+	BgColor:	188
+)
+
+(TClr.186
+	Red:	0x9600
+	Green:	0xb500
+	Blue:	0x4400
+)
+
+(TClr.187
+)
+
+(TClr.188
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.189
+	Color:	190
+	Outline:	1
+	OutlineColor:	191
+	OutlineWidth:	0.10000000000000
+	BgColor:	192
+)
+
+(TClr.190
+	Red:	0x3300
+	Green:	0xa800
+	Blue:	0x8c00
+)
+
+(TClr.191
+)
+
+(TClr.192
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.193
+	Color:	194
+	Outline:	1
+	OutlineColor:	195
+	OutlineWidth:	0.10000000000000
+	BgColor:	196
+)
+
+(TClr.194
+	Red:	0x2b00
+	Green:	0x9900
+	Blue:	0x7500
+)
+
+(TClr.195
+)
+
+(TClr.196
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.197
+	Color:	198
+	Outline:	1
+	OutlineColor:	199
+	OutlineWidth:	0.10000000000000
+	BgColor:	200
+)
+
+(TClr.198
+	Red:	0x8c00
+	Green:	0xaa00
+	Blue:	0x4700
+)
+
+(TClr.199
+)
+
+(TClr.200
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.201
+	Color:	202
+	Outline:	1
+	OutlineColor:	203
+	OutlineWidth:	0.10000000000000
+	BgColor:	204
+)
+
+(TClr.202
+	Red:	0xd300
+	Green:	0x9e00
+	Blue:	0x2b00
+)
+
+(TClr.203
+)
+
+(TClr.204
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.205
+	Color:	206
+	Outline:	1
+	OutlineColor:	207
+	OutlineWidth:	0.10000000000000
+	BgColor:	208
+)
+
+(TClr.206
+	Red:	0x6000
+	Green:	0x9300
+	Blue:	0x6800
+)
+
+(TClr.207
+)
+
+(TClr.208
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.209
+	Color:	210
+	Outline:	1
+	OutlineColor:	211
+	OutlineWidth:	0.10000000000000
+	BgColor:	212
+)
+
+(TClr.210
+	Green:	0xff00
+)
+
+(TClr.211
+)
+
+(TClr.212
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.213
+	Color:	214
+	Outline:	1
+	OutlineColor:	215
+	OutlineWidth:	0.10000000000000
+	BgColor:	216
+)
+
+(TClr.214
+	Red:	0x7700
+	Green:	0xa800
+	Blue:	0x4900
+)
+
+(TClr.215
+)
+
+(TClr.216
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.217
+	Color:	218
+	Outline:	1
+	OutlineColor:	219
+	OutlineWidth:	0.10000000000000
+	BgColor:	220
+)
+
+(TClr.218
+	Red:	0x7000
+	Green:	0x8700
+	Blue:	0x7700
+)
+
+(TClr.219
+)
+
+(TClr.220
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.221
+	Color:	222
+	Outline:	1
+	OutlineColor:	223
+	OutlineWidth:	0.10000000000000
+	BgColor:	224
+)
+
+(TClr.222
+	Red:	0x7700
+	Green:	0xa800
+	Blue:	0x4900
+)
+
+(TClr.223
+)
+
+(TClr.224
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.225
+	Color:	226
+	Outline:	1
+	OutlineColor:	227
+	OutlineWidth:	0.10000000000000
+	BgColor:	228
+)
+
+(TClr.226
+	Red:	0x7700
+	Green:	0xa800
+	Blue:	0x4900
+)
+
+(TClr.227
+)
+
+(TClr.228
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.229
+	Color:	230
+	Outline:	1
+	OutlineColor:	231
+	OutlineWidth:	0.10000000000000
+	BgColor:	232
+)
+
+(TClr.230
+	Red:	0x7700
+	Green:	0xa800
+	Blue:	0x4900
+)
+
+(TClr.231
+)
+
+(TClr.232
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.233
+	Color:	234
+	Outline:	1
+	OutlineColor:	235
+	OutlineWidth:	0.10000000000000
+	BgColor:	236
+)
+
+(TClr.234
+	Red:	0xff00
+	Green:	0xa500
+)
+
+(TClr.235
+)
+
+(TClr.236
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.237
+	Color:	238
+	Outline:	1
+	OutlineColor:	239
+	OutlineWidth:	0.10000000000000
+	BgColor:	240
+)
+
+(TClr.238
+	Green:	0x6300
+)
+
+(TClr.239
+)
+
+(TClr.240
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.241
+	Color:	242
+	Outline:	1
+	OutlineColor:	243
+	OutlineWidth:	0.10000000000000
+	BgColor:	244
+)
+
+(TClr.242
+	Red:	0xa500
+	Green:	0x9e00
+	Blue:	0x2800
+)
+
+(TClr.243
+)
+
+(TClr.244
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.245
+	Color:	246
+	Outline:	1
+	OutlineColor:	247
+	OutlineWidth:	0.10000000000000
+	BgColor:	248
+)
+
+(TClr.246
+	Red:	0xa500
+	Green:	0x9e00
+	Blue:	0x2800
+)
+
+(TClr.247
+)
+
+(TClr.248
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.249
+	Color:	250
+	Outline:	1
+	OutlineColor:	251
+	OutlineWidth:	0.10000000000000
+	BgColor:	252
+)
+
+(TClr.250
+	Red:	0xa500
+	Green:	0x9e00
+	Blue:	0x2800
+)
+
+(TClr.251
+)
+
+(TClr.252
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.253
+	Color:	254
+	Outline:	1
+	OutlineColor:	255
+	OutlineWidth:	0.10000000000000
+	BgColor:	256
+)
+
+(TClr.254
+	Red:	0x8c00
+	Green:	0xf200
+	Blue:	0x8200
+)
+
+(TClr.255
+)
+
+(TClr.256
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.257
+	Color:	258
+	Outline:	1
+	OutlineColor:	259
+	OutlineWidth:	0.10000000000000
+	BgColor:	260
+)
+
+(TClr.258
+	Red:	0x3300
+	Green:	0xc900
+	Blue:	0x9100
+)
+
+(TClr.259
+)
+
+(TClr.260
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.261
+	Color:	262
+	Outline:	1
+	OutlineColor:	263
+	OutlineWidth:	0.10000000000000
+	BgColor:	264
+)
+
+(TClr.262
+	Red:	0xe000
+	Green:	0xbc00
+	Blue:	0x1600
+)
+
+(TClr.263
+)
+
+(TClr.264
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.265
+	Color:	266
+	Outline:	1
+	OutlineColor:	267
+	OutlineWidth:	0.10000000000000
+	BgColor:	268
+)
+
+(TClr.266
+	Red:	0xa500
+	Green:	0x9e00
+	Blue:	0x2800
+)
+
+(TClr.267
+)
+
+(TClr.268
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.269
+	Color:	270
+	Outline:	1
+	OutlineColor:	271
+	OutlineWidth:	0.10000000000000
+	BgColor:	272
+)
+
+(TClr.270
+	Red:	0xa500
+	Green:	0xc900
+	Blue:	0x2800
+)
+
+(TClr.271
+)
+
+(TClr.272
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.273
+	Color:	274
+	Outline:	1
+	OutlineColor:	275
+	OutlineWidth:	0.10000000000000
+	BgColor:	276
+)
+
+(TClr.274
+	Red:	0x6000
+	Green:	0xc900
+	Blue:	0x3300
+)
+
+(TClr.275
+)
+
+(TClr.276
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.277
+	Color:	278
+	Outline:	1
+	OutlineColor:	279
+	OutlineWidth:	0.10000000000000
+	BgColor:	280
+)
+
+(TClr.278
+	Red:	0x8700
+	Green:	0x2600
+	Blue:	0x6d00
+)
+
+(TClr.279
+)
+
+(TClr.280
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.281
+	Color:	282
+	Outline:	1
+	OutlineColor:	283
+	OutlineWidth:	0.10000000000000
+	BgColor:	284
+)
+
+(TClr.282
+	Red:	0xa500
+	Green:	0x9e00
+	Blue:	0x2800
+)
+
+(TClr.283
+)
+
+(TClr.284
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.285
+	Color:	286
+	Outline:	1
+	OutlineColor:	287
+	OutlineWidth:	0.10000000000000
+	BgColor:	288
+)
+
+(TClr.286
+	Red:	0xd100
+	Green:	0xb200
+	Blue:	0x8c00
+)
+
+(TClr.287
+)
+
+(TClr.288
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.289
+	Color:	290
+	Outline:	1
+	OutlineColor:	291
+	OutlineWidth:	0.10000000000000
+	BgColor:	292
+)
+
+(TClr.290
+	Red:	0x1e00
+	Green:	0x7000
+	Blue:	0x2300
+)
+
+(TClr.291
+)
+
+(TClr.292
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.293
+	Color:	294
+	Outline:	1
+	OutlineColor:	295
+	OutlineWidth:	0.10000000000000
+	BgColor:	296
+)
+
+(TClr.294
+	Red:	0x8c00
+	Green:	0xba00
+	Blue:	0x6d00
+)
+
+(TClr.295
+)
+
+(TClr.296
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.297
+	Color:	298
+	Outline:	1
+	OutlineColor:	299
+	OutlineWidth:	0.10000000000000
+	BgColor:	300
+)
+
+(TClr.298
+	Red:	0xdd00
+	Green:	0x6000
+	Blue:	0x2100
+)
+
+(TClr.299
+)
+
+(TClr.300
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.301
+	Color:	302
+	Outline:	1
+	OutlineColor:	303
+	OutlineWidth:	0.10000000000000
+	BgColor:	304
+)
+
+(TClr.302
+	Red:	0xa500
+	Green:	0xb200
+	Blue:	0x7f00
+)
+
+(TClr.303
+)
+
+(TClr.304
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.305
+	Color:	306
+	Outline:	1
+	OutlineColor:	307
+	OutlineWidth:	0.10000000000000
+	BgColor:	308
+)
+
+(TClr.306
+	Red:	0x8c00
+	Green:	0xc100
+	Blue:	0x2800
+)
+
+(TClr.307
+)
+
+(TClr.308
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.309
+	Color:	310
+	Outline:	1
+	OutlineColor:	311
+	OutlineWidth:	0.10000000000000
+	BgColor:	312
+)
+
+(TClr.310
+	Red:	0xb500
+	Green:	0xc600
+	Blue:	0x3800
+)
+
+(TClr.311
+)
+
+(TClr.312
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.313
+	Color:	314
+	Outline:	1
+	OutlineColor:	315
+	OutlineWidth:	0.10000000000000
+	BgColor:	316
+)
+
+(TClr.314
+	Red:	0x5900
+	Green:	0xbf00
+	Blue:	0x3300
+)
+
+(TClr.315
+)
+
+(TClr.316
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.317
+	Color:	318
+	Outline:	1
+	OutlineColor:	319
+	OutlineWidth:	0.10000000000000
+	BgColor:	320
+)
+
+(TClr.318
+	Red:	0x8c00
+	Green:	0xba00
+	Blue:	0x6d00
+)
+
+(TClr.319
+)
+
+(TClr.320
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.321
+	Color:	322
+	Outline:	1
+	OutlineColor:	323
+	OutlineWidth:	0.10000000000000
+	BgColor:	324
+)
+
+(TClr.322
+	Red:	0x8c00
+	Green:	0xc100
+	Blue:	0x2800
+)
+
+(TClr.323
+)
+
+(TClr.324
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.325
+	Color:	326
+	Outline:	1
+	OutlineColor:	327
+	OutlineWidth:	0.10000000000000
+	BgColor:	328
+)
+
+(TClr.326
+	Red:	0x6000
+	Green:	0xc900
+	Blue:	0x3300
+)
+
+(TClr.327
+)
+
+(TClr.328
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.329
+	Color:	330
+	Outline:	1
+	OutlineColor:	331
+	OutlineWidth:	0.10000000000000
+	BgColor:	332
+)
+
+(TClr.330
+	Red:	0x6000
+	Green:	0xc900
+	Blue:	0x3300
+)
+
+(TClr.331
+)
+
+(TClr.332
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.333
+	Color:	334
+	Outline:	1
+	OutlineColor:	335
+	OutlineWidth:	0.10000000000000
+	BgColor:	336
+)
+
+(TClr.334
+	Red:	0x6000
+	Green:	0xc900
+	Blue:	0x3300
+)
+
+(TClr.335
+)
+
+(TClr.336
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.337
+	Color:	338
+	Outline:	1
+	OutlineColor:	339
+	OutlineWidth:	0.10000000000000
+	BgColor:	340
+)
+
+(TClr.338
+	Red:	0xd300
+	Green:	0xcc00
+	Blue:	0x2b00
+)
+
+(TClr.339
+)
+
+(TClr.340
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.341
+	Color:	342
+	Outline:	1
+	OutlineColor:	343
+	OutlineWidth:	0.10000000000000
+	BgColor:	344
+)
+
+(TClr.342
+	Red:	0x8c00
+	Green:	0xba00
+	Blue:	0x6d00
+)
+
+(TClr.343
+)
+
+(TClr.344
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.345
+	Color:	346
+	Outline:	1
+	OutlineColor:	347
+	OutlineWidth:	0.10000000000000
+	BgColor:	348
+)
+
+(TClr.346
+	Red:	0x8c00
+	Green:	0xba00
+	Blue:	0x6d00
+)
+
+(TClr.347
+)
+
+(TClr.348
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.349
+	Color:	350
+	Outline:	1
+	OutlineColor:	351
+	OutlineWidth:	0.10000000000000
+	BgColor:	352
+)
+
+(TClr.350
+	Red:	0x8c00
+	Green:	0xba00
+	Blue:	0x6d00
+)
+
+(TClr.351
+)
+
+(TClr.352
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.353
+	Color:	354
+	Outline:	1
+	OutlineColor:	355
+	OutlineWidth:	0.10000000000000
+	BgColor:	356
+)
+
+(TClr.354
+	Red:	0x8c00
+	Green:	0xba00
+	Blue:	0x6d00
+)
+
+(TClr.355
+)
+
+(TClr.356
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.357
+	Color:	358
+	Outline:	1
+	OutlineColor:	359
+	OutlineWidth:	0.10000000000000
+	BgColor:	360
+)
+
+(TClr.358
+	Red:	0x3d00
+	Green:	0x9b00
+	Blue:	0x7700
+)
+
+(TClr.359
+)
+
+(TClr.360
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.361
+	Color:	362
+	Outline:	1
+	OutlineColor:	363
+	OutlineWidth:	0.10000000000000
+	BgColor:	364
+)
+
+(TClr.362
+	Red:	0x5900
+	Green:	0xc100
+	Blue:	0x3300
+)
+
+(TClr.363
+)
+
+(TClr.364
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.365
+	Color:	366
+	Outline:	1
+	OutlineColor:	367
+	OutlineWidth:	0.10000000000000
+	BgColor:	368
+)
+
+(TClr.366
+	Red:	0x8c00
+	Green:	0xba00
+	Blue:	0x6d00
+)
+
+(TClr.367
+)
+
+(TClr.368
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.369
+	Color:	370
+	Outline:	1
+	OutlineColor:	371
+	OutlineWidth:	0.10000000000000
+	BgColor:	372
+)
+
+(TClr.370
+	Red:	0x8c00
+	Green:	0xba00
+	Blue:	0x6d00
+)
+
+(TClr.371
+)
+
+(TClr.372
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.373
+	Color:	374
+	Outline:	1
+	OutlineColor:	375
+	OutlineWidth:	0.10000000000000
+	BgColor:	376
+)
+
+(TClr.374
+	Red:	0x6000
+	Green:	0x9300
+	Blue:	0x6800
+)
+
+(TClr.375
+)
+
+(TClr.376
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.377
+	Color:	378
+	Outline:	1
+	OutlineColor:	379
+	OutlineWidth:	0.10000000000000
+	BgColor:	380
+)
+
+(TClr.378
+	Red:	0xd300
+	Green:	0xcc00
+	Blue:	0x2b00
+)
+
+(TClr.379
+)
+
+(TClr.380
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.381
+	Color:	382
+	Outline:	1
+	OutlineColor:	383
+	OutlineWidth:	0.10000000000000
+	BgColor:	384
+)
+
+(TClr.382
+	Red:	0xd300
+	Green:	0xcc00
+	Blue:	0x2b00
+)
+
+(TClr.383
+)
+
+(TClr.384
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.385
+	Color:	386
+	Outline:	1
+	OutlineColor:	387
+	OutlineWidth:	0.10000000000000
+	BgColor:	388
+)
+
+(TClr.386
+	Red:	0xa500
+	Green:	0xaa00
+	Blue:	0x7700
+)
+
+(TClr.387
+)
+
+(TClr.388
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.389
+	Color:	390
+	Outline:	1
+	OutlineColor:	391
+	OutlineWidth:	0.10000000000000
+	BgColor:	392
+)
+
+(TClr.390
+	Red:	0xa500
+	Green:	0xaa00
+	Blue:	0x7700
+)
+
+(TClr.391
+)
+
+(TClr.392
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.393
+	Color:	394
+	Outline:	1
+	OutlineColor:	395
+	OutlineWidth:	0.10000000000000
+	BgColor:	396
+)
+
+(TClr.394
+	Red:	0xa500
+	Green:	0xaa00
+	Blue:	0x7700
+)
+
+(TClr.395
+)
+
+(TClr.396
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.397
+	Color:	398
+	Outline:	1
+	OutlineColor:	399
+	OutlineWidth:	0.10000000000000
+	BgColor:	400
+)
+
+(TClr.398
+	Red:	0xa500
+	Green:	0xaa00
+	Blue:	0x7700
+)
+
+(TClr.399
+)
+
+(TClr.400
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.401
+	Color:	402
+	Outline:	1
+	OutlineColor:	403
+	OutlineWidth:	0.10000000000000
+	BgColor:	404
+)
+
+(TClr.402
+	Red:	0xd800
+	Green:	0xe500
+	Blue:	0x1400
+)
+
+(TClr.403
+)
+
+(TClr.404
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.405
+	Color:	406
+	Outline:	1
+	OutlineColor:	407
+	OutlineWidth:	0.10000000000000
+	BgColor:	408
+)
+
+(TClr.406
+	Red:	0x2b00
+	Green:	0x9900
+	Blue:	0x7500
+)
+
+(TClr.407
+)
+
+(TClr.408
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.409
+	Color:	410
+	Outline:	1
+	OutlineColor:	411
+	OutlineWidth:	0.10000000000000
+	BgColor:	412
+)
+
+(TClr.410
+	Red:	0xe000
+	Green:	0xd100
+	Blue:	0x9e00
+)
+
+(TClr.411
+)
+
+(TClr.412
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.413
+	Color:	414
+	Outline:	1
+	OutlineColor:	415
+	OutlineWidth:	0.10000000000000
+	BgColor:	416
+)
+
+(TClr.414
+	Green:	0xff00
+)
+
+(TClr.415
+)
+
+(TClr.416
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.417
+	Color:	418
+	Outline:	1
+	OutlineColor:	419
+	OutlineWidth:	0.10000000000000
+	BgColor:	420
+)
+
+(TClr.418
+	Red:	0xb700
+	Green:	0xd100
+	Blue:	0x2b00
+)
+
+(TClr.419
+)
+
+(TClr.420
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.421
+	Color:	422
+	Outline:	1
+	OutlineColor:	423
+	OutlineWidth:	0.10000000000000
+	BgColor:	424
+)
+
+(TClr.422
+	Red:	0xf200
+	Green:	0xad00
+	Blue:	0x6300
+)
+
+(TClr.423
+)
+
+(TClr.424
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.425
+	Color:	426
+	Outline:	1
+	OutlineColor:	427
+	OutlineWidth:	0.10000000000000
+	BgColor:	428
+)
+
+(TClr.426
+	Red:	0xd100
+	Green:	0xd300
+	Blue:	0xba00
+)
+
+(TClr.427
+)
+
+(TClr.428
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.429
+	Color:	430
+	Outline:	1
+	OutlineColor:	431
+	OutlineWidth:	0.10000000000000
+	BgColor:	432
+)
+
+(TClr.430
+	Red:	0xd100
+	Green:	0xd300
+	Blue:	0xba00
+)
+
+(TClr.431
+)
+
+(TClr.432
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.433
+	Color:	434
+	Outline:	1
+	OutlineColor:	435
+	OutlineWidth:	0.10000000000000
+	BgColor:	436
+)
+
+(TClr.434
+	Red:	0xd100
+	Green:	0xd300
+	Blue:	0xba00
+)
+
+(TClr.435
+)
+
+(TClr.436
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.437
+	Color:	438
+	Outline:	1
+	OutlineColor:	439
+	OutlineWidth:	0.10000000000000
+	BgColor:	440
+)
+
+(TClr.438
+	Red:	0xd100
+	Green:	0xd300
+	Blue:	0xba00
+)
+
+(TClr.439
+)
+
+(TClr.440
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.441
+	Color:	442
+	Outline:	1
+	OutlineColor:	443
+	OutlineWidth:	0.10000000000000
+	BgColor:	444
+)
+
+(TClr.442
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xe000
+)
+
+(TClr.443
+)
+
+(TClr.444
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.445
+	Color:	446
+	Outline:	1
+	OutlineColor:	447
+	OutlineWidth:	0.10000000000000
+	BgColor:	448
+)
+
+(TClr.446
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xe000
+)
+
+(TClr.447
+)
+
+(TClr.448
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.449
+	Color:	450
+	Outline:	1
+	OutlineColor:	451
+	OutlineWidth:	0.10000000000000
+	BgColor:	452
+)
+
+(TClr.450
+	Red:	0xd100
+	Green:	0xb200
+	Blue:	0x8c00
+)
+
+(TClr.451
+)
+
+(TClr.452
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.453
+	Color:	454
+	Outline:	1
+	OutlineColor:	455
+	OutlineWidth:	0.10000000000000
+	BgColor:	456
+)
+
+(TClr.454
+	Red:	0xd100
+	Green:	0xb200
+	Blue:	0x8c00
+)
+
+(TClr.455
+)
+
+(TClr.456
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.457
+	Color:	458
+	Outline:	1
+	OutlineColor:	459
+	OutlineWidth:	0.10000000000000
+	BgColor:	460
+)
+
+(TClr.458
+	Red:	0xce00
+	Green:	0xa300
+	Blue:	0x2b00
+)
+
+(TClr.459
+)
+
+(TClr.460
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.461
+	Color:	462
+	Outline:	1
+	OutlineColor:	463
+	OutlineWidth:	0.10000000000000
+	BgColor:	464
+)
+
+(TClr.462
+	Red:	0xef00
+	Green:	0xdb00
+	Blue:	0x7500
+)
+
+(TClr.463
+)
+
+(TClr.464
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.465
+	Color:	466
+	Outline:	1
+	OutlineColor:	467
+	OutlineWidth:	0.10000000000000
+	BgColor:	468
+)
+
+(TClr.466
+	Red:	0xd100
+	Green:	0xb200
+	Blue:	0x8c00
+)
+
+(TClr.467
+)
+
+(TClr.468
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.469
+	Color:	470
+	Outline:	1
+	OutlineColor:	471
+	OutlineWidth:	0.10000000000000
+	BgColor:	472
+)
+
+(TClr.470
+	Red:	0xc100
+	Green:	0xc100
+	Blue:	0xa500
+)
+
+(TClr.471
+)
+
+(TClr.472
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.473
+	Color:	474
+	Outline:	1
+	OutlineColor:	475
+	OutlineWidth:	0.10000000000000
+	BgColor:	476
+)
+
+(TClr.474
+	Red:	0xea00
+	Green:	0xe500
+	Blue:	0xaf00
+)
+
+(TClr.475
+)
+
+(TClr.476
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.477
+	Color:	478
+	Outline:	1
+	OutlineColor:	479
+	OutlineWidth:	0.10000000000000
+	BgColor:	480
+)
+
+(TClr.478
+	Red:	0x5600
+	Green:	0xa500
+	Blue:	0xb700
+)
+
+(TClr.479
+)
+
+(TClr.480
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.481
+	Color:	482
+	Outline:	1
+	OutlineColor:	483
+	OutlineWidth:	0.10000000000000
+	BgColor:	484
+)
+
+(TClr.482
+	Red:	0x5600
+	Green:	0xa500
+	Blue:	0xb700
+)
+
+(TClr.483
+)
+
+(TClr.484
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.485
+	Color:	486
+	Outline:	1
+	OutlineColor:	487
+	OutlineWidth:	0.10000000000000
+	BgColor:	488
+)
+
+(TClr.486
+	Red:	0x5600
+	Green:	0xa500
+	Blue:	0xb700
+)
+
+(TClr.487
+)
+
+(TClr.488
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.489
+	Color:	490
+	Outline:	1
+	OutlineColor:	491
+	OutlineWidth:	0.10000000000000
+	BgColor:	492
+)
+
+(TClr.490
+	Red:	0x5600
+	Green:	0xa500
+	Blue:	0xb700
+)
+
+(TClr.491
+)
+
+(TClr.492
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.493
+	Color:	494
+	Outline:	1
+	OutlineColor:	495
+	OutlineWidth:	0.10000000000000
+	BgColor:	496
+)
+
+(TClr.494
+	Red:	0x5600
+	Green:	0xa500
+	Blue:	0xb700
+)
+
+(TClr.495
+)
+
+(TClr.496
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.497
+	Color:	498
+	Outline:	1
+	OutlineColor:	499
+	OutlineWidth:	0.10000000000000
+	BgColor:	500
+)
+
+(TClr.498
+	Red:	0x5600
+	Green:	0xa500
+	Blue:	0xb700
+)
+
+(TClr.499
+)
+
+(TClr.500
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.501
+	Color:	502
+	Outline:	1
+	OutlineColor:	503
+	OutlineWidth:	0.10000000000000
+	BgColor:	504
+)
+
+(TClr.502
+	Red:	0x1e00
+	Green:	0x5e00
+	Blue:	0x6000
+)
+
+(TClr.503
+)
+
+(TClr.504
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.505
+	Color:	506
+	Outline:	1
+	OutlineColor:	507
+	OutlineWidth:	0.10000000000000
+	BgColor:	508
+)
+
+(TClr.506
+	Red:	0x1e00
+	Green:	0x5e00
+	Blue:	0x6000
+)
+
+(TClr.507
+)
+
+(TClr.508
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.509
+	Color:	510
+	Outline:	1
+	OutlineColor:	511
+	OutlineWidth:	0.10000000000000
+	BgColor:	512
+)
+
+(TClr.510
+	Red:	0x1e00
+	Green:	0x5e00
+	Blue:	0x6000
+)
+
+(TClr.511
+)
+
+(TClr.512
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.513
+	Color:	514
+	Outline:	1
+	OutlineColor:	515
+	OutlineWidth:	0.10000000000000
+	BgColor:	516
+)
+
+(TClr.514
+	Red:	0x1e00
+	Green:	0x5e00
+	Blue:	0x6000
+)
+
+(TClr.515
+)
+
+(TClr.516
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.517
+	Color:	518
+	Outline:	1
+	OutlineColor:	519
+	OutlineWidth:	0.10000000000000
+	BgColor:	520
+)
+
+(TClr.518
+	Red:	0x1e00
+	Green:	0x5e00
+	Blue:	0x6000
+)
+
+(TClr.519
+)
+
+(TClr.520
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.521
+	Color:	522
+	Outline:	1
+	OutlineColor:	523
+	OutlineWidth:	0.10000000000000
+	BgColor:	524
+)
+
+(TClr.522
+	Red:	0x1e00
+	Green:	0x5e00
+	Blue:	0x6000
+)
+
+(TClr.523
+)
+
+(TClr.524
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.525
+	Color:	526
+	Outline:	1
+	OutlineColor:	527
+	OutlineWidth:	0.10000000000000
+	BgColor:	528
+)
+
+(TClr.526
+	Red:	0x1e00
+	Green:	0x5e00
+	Blue:	0x6000
+)
+
+(TClr.527
+)
+
+(TClr.528
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.529
+	Color:	530
+	Outline:	1
+	OutlineColor:	531
+	OutlineWidth:	0.10000000000000
+	BgColor:	532
+)
+
+(TClr.530
+	Red:	0x1e00
+	Green:	0x5e00
+	Blue:	0x6000
+)
+
+(TClr.531
+)
+
+(TClr.532
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.533
+	Color:	534
+	Outline:	1
+	OutlineColor:	535
+	OutlineWidth:	0.10000000000000
+	BgColor:	536
+)
+
+(TClr.534
+	Red:	0x1e00
+	Green:	0x5e00
+	Blue:	0x6000
+)
+
+(TClr.535
+)
+
+(TClr.536
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.537
+	Color:	538
+	Outline:	1
+	OutlineColor:	539
+	OutlineWidth:	0.10000000000000
+	BgColor:	540
+)
+
+(TClr.538
+	Red:	0x1e00
+	Green:	0x5e00
+	Blue:	0x6000
+)
+
+(TClr.539
+)
+
+(TClr.540
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.541
+	Color:	542
+	Outline:	1
+	OutlineColor:	543
+	OutlineWidth:	0.10000000000000
+	BgColor:	544
+)
+
+(TClr.542
+	Red:	0x4f00
+	Green:	0x4c00
+	Blue:	0xaf00
+)
+
+(TClr.543
+)
+
+(TClr.544
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.545
+	Color:	546
+	Outline:	1
+	OutlineColor:	547
+	OutlineWidth:	0.10000000000000
+	BgColor:	548
+)
+
+(TClr.546
+	Red:	0x9600
+	Green:	0x9300
+	Blue:	0xd100
+)
+
+(TClr.547
+)
+
+(TClr.548
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.549
+	Color:	550
+	Outline:	1
+	OutlineColor:	551
+	OutlineWidth:	0.10000000000000
+	BgColor:	552
+)
+
+(TClr.550
+	Red:	0x5e00
+	Green:	0x9b00
+	Blue:	0x7c00
+)
+
+(TClr.551
+)
+
+(TClr.552
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.553
+	Color:	554
+	Outline:	1
+	OutlineColor:	555
+	OutlineWidth:	0.10000000000000
+	BgColor:	556
+)
+
+(TClr.554
+	Red:	0xaf00
+	Green:	0x3000
+	Blue:	0x6000
+)
+
+(TClr.555
+)
+
+(TClr.556
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.557
+	Color:	558
+	Outline:	1
+	OutlineColor:	559
+	OutlineWidth:	0.10000000000000
+	BgColor:	560
+)
+
+(TClr.558
+	Red:	0x3300
+	Green:	0xc900
+	Blue:	0x6000
+)
+
+(TClr.559
+)
+
+(TClr.560
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.561
+	Color:	562
+	Outline:	1
+	OutlineColor:	563
+	OutlineWidth:	0.10000000000000
+	BgColor:	564
+)
+
+(TClr.562
+	Red:	0xb500
+	Green:	0x7f00
+	Blue:	0xba00
+)
+
+(TClr.563
+)
+
+(TClr.564
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.565
+	Color:	566
+	Outline:	1
+	OutlineColor:	567
+	OutlineWidth:	0.10000000000000
+	BgColor:	568
+)
+
+(TClr.566
+	Red:	0x2800
+	Green:	0xb500
+	Blue:	0xe000
+)
+
+(TClr.567
+)
+
+(TClr.568
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.569
+	Color:	570
+	Outline:	1
+	OutlineColor:	571
+	OutlineWidth:	0.10000000000000
+	BgColor:	572
+)
+
+(TClr.570
+	Red:	0x5400
+	Green:	0xaa00
+	Blue:	0xaf00
+)
+
+(TClr.571
+)
+
+(TClr.572
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.573
+	Color:	574
+	Outline:	1
+	OutlineColor:	575
+	OutlineWidth:	0.10000000000000
+	BgColor:	576
+)
+
+(TClr.574
+	Red:	0x6b00
+	Green:	0xc600
+	Blue:	0xa800
+)
+
+(TClr.575
+)
+
+(TClr.576
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.577
+	Color:	578
+	Outline:	1
+	OutlineColor:	579
+	OutlineWidth:	0.10000000000000
+	BgColor:	580
+)
+
+(TClr.578
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(TClr.579
+)
+
+(TClr.580
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.581
+	Color:	582
+	Outline:	1
+	OutlineColor:	583
+	OutlineWidth:	0.10000000000000
+	BgColor:	584
+)
+
+(TClr.582
+	Red:	0x2800
+	Green:	0xb500
+	Blue:	0xe000
+)
+
+(TClr.583
+)
+
+(TClr.584
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.585
+	Color:	586
+	Outline:	1
+	OutlineColor:	587
+	OutlineWidth:	0.10000000000000
+	BgColor:	588
+)
+
+(TClr.586
+	Red:	0xff00
+	Green:	0xb500
+	Blue:	0xc100
+)
+
+(TClr.587
+)
+
+(TClr.588
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.589
+	Color:	590
+	Outline:	1
+	OutlineColor:	591
+	OutlineWidth:	0.10000000000000
+	BgColor:	592
+)
+
+(TClr.590
+	Red:	0x5e00
+	Green:	0x9b00
+	Blue:	0x7c00
+)
+
+(TClr.591
+)
+
+(TClr.592
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.593
+	Color:	594
+	Outline:	1
+	OutlineColor:	595
+	OutlineWidth:	0.10000000000000
+	BgColor:	596
+)
+
+(TClr.594
+	Red:	0x3f00
+	Green:	0xe000
+	Blue:	0xd100
+)
+
+(TClr.595
+)
+
+(TClr.596
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.597
+	Color:	598
+	Outline:	1
+	OutlineColor:	599
+	OutlineWidth:	0.10000000000000
+	BgColor:	600
+)
+
+(TClr.598
+	Red:	0xbf00
+	Green:	0x2600
+	Blue:	0xb700
+)
+
+(TClr.599
+)
+
+(TClr.600
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.601
+	Color:	602
+	Outline:	1
+	OutlineColor:	603
+	OutlineWidth:	0.10000000000000
+	BgColor:	604
+)
+
+(TClr.602
+	Red:	0x6b00
+	Green:	0xa500
+	Blue:	0x5400
+)
+
+(TClr.603
+)
+
+(TClr.604
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.605
+	Color:	606
+	Outline:	1
+	OutlineColor:	607
+	OutlineWidth:	0.10000000000000
+	BgColor:	608
+)
+
+(TClr.606
+	Red:	0x6000
+	Green:	0xc900
+	Blue:	0x3300
+)
+
+(TClr.607
+)
+
+(TClr.608
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.609
+	Color:	610
+	Outline:	1
+	OutlineColor:	611
+	OutlineWidth:	0.10000000000000
+	BgColor:	612
+)
+
+(TClr.610
+	Red:	0x6000
+	Green:	0xc900
+	Blue:	0x3300
+)
+
+(TClr.611
+)
+
+(TClr.612
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.613
+	Color:	614
+	Outline:	1
+	OutlineColor:	615
+	OutlineWidth:	0.10000000000000
+	BgColor:	616
+)
+
+(TClr.614
+	Red:	0x3300
+	Green:	0xc900
+	Blue:	0x9100
+)
+
+(TClr.615
+)
+
+(TClr.616
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.617
+	Color:	618
+	Outline:	1
+	OutlineColor:	619
+	OutlineWidth:	0.10000000000000
+	BgColor:	620
+)
+
+(TClr.618
+	Red:	0x7700
+	Green:	0xe200
+	Blue:	0xa800
+)
+
+(TClr.619
+)
+
+(TClr.620
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.621
+	Color:	622
+	Outline:	1
+	OutlineColor:	623
+	OutlineWidth:	0.10000000000000
+	BgColor:	624
+)
+
+(TClr.622
+	Red:	0xc100
+	Green:	0xff00
+	Blue:	0xbf00
+)
+
+(TClr.623
+)
+
+(TClr.624
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.625
+	Color:	626
+	Outline:	1
+	OutlineColor:	627
+	OutlineWidth:	0.10000000000000
+	BgColor:	628
+)
+
+(TClr.626
+	Red:	0x6800
+	Green:	0x7f00
+	Blue:	0x6600
+)
+
+(TClr.627
+)
+
+(TClr.628
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.629
+	Color:	630
+	Outline:	1
+	OutlineColor:	631
+	OutlineWidth:	0.10000000000000
+	BgColor:	632
+)
+
+(TClr.630
+	Red:	0xf200
+	Green:	0x9600
+	Blue:	0x8c00
+)
+
+(TClr.631
+)
+
+(TClr.632
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.633
+	Color:	634
+	Outline:	1
+	OutlineColor:	635
+	OutlineWidth:	0.10000000000000
+	BgColor:	636
+)
+
+(TClr.634
+	Red:	0x3300
+	Green:	0xb200
+	Blue:	0xad00
+)
+
+(TClr.635
+)
+
+(TClr.636
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.637
+	Color:	638
+	Outline:	1
+	OutlineColor:	639
+	OutlineWidth:	0.10000000000000
+	BgColor:	640
+)
+
+(TClr.638
+	Red:	0xd800
+	Green:	0x9900
+	Blue:	0xf200
+)
+
+(TClr.639
+)
+
+(TClr.640
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.641
+	Color:	642
+	Outline:	1
+	OutlineColor:	643
+	OutlineWidth:	0.10000000000000
+	BgColor:	644
+)
+
+(TClr.642
+	Red:	0x5b00
+	Green:	0x7500
+	Blue:	0xa300
+)
+
+(TClr.643
+)
+
+(TClr.644
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.645
+	Color:	646
+	Outline:	1
+	OutlineColor:	647
+	OutlineWidth:	0.10000000000000
+	BgColor:	648
+)
+
+(TClr.646
+	Red:	0x9e00
+	Green:	0xe000
+	Blue:	0xe500
+)
+
+(TClr.647
+)
+
+(TClr.648
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.649
+	Color:	650
+	Outline:	1
+	OutlineColor:	651
+	OutlineWidth:	0.10000000000000
+	BgColor:	652
+)
+
+(TClr.650
+	Red:	0x7700
+	Green:	0xc900
+	Blue:	0xea00
+)
+
+(TClr.651
+)
+
+(TClr.652
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.653
+	Color:	654
+	Outline:	1
+	OutlineColor:	655
+	OutlineWidth:	0.10000000000000
+	BgColor:	656
+)
+
+(TClr.654
+	Red:	0xb500
+	Green:	0x1e00
+	Blue:	0x1400
+)
+
+(TClr.655
+)
+
+(TClr.656
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.657
+	Color:	658
+	Outline:	1
+	OutlineColor:	659
+	OutlineWidth:	0.10000000000000
+	BgColor:	660
+)
+
+(TClr.658
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(TClr.659
+)
+
+(TClr.660
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.661
+	Color:	662
+	Outline:	1
+	OutlineColor:	663
+	OutlineWidth:	0.10000000000000
+	BgColor:	664
+)
+
+(TClr.662
+	Red:	0xf200
+	Green:	0xf200
+	Blue:	0xdb00
+)
+
+(TClr.663
+)
+
+(TClr.664
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.665
+	Color:	666
+	Outline:	1
+	OutlineColor:	667
+	OutlineWidth:	0.10000000000000
+	BgColor:	668
+)
+
+(TClr.666
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(TClr.667
+)
+
+(TClr.668
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.669
+	Color:	670
+	Outline:	1
+	OutlineColor:	671
+	OutlineWidth:	0.10000000000000
+	BgColor:	672
+)
+
+(TClr.670
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(TClr.671
+)
+
+(TClr.672
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.673
+	Color:	674
+	Outline:	1
+	OutlineColor:	675
+	OutlineWidth:	0.10000000000000
+	BgColor:	676
+)
+
+(TClr.674
+	Red:	0xff00
+	Blue:	0xff00
+)
+
+(TClr.675
+)
+
+(TClr.676
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.677
+	Color:	678
+	Outline:	1
+	OutlineColor:	679
+	OutlineWidth:	0.10000000000000
+	BgColor:	680
+)
+
+(TClr.678
+	Red:	0xf200
+	Green:	0xf200
+	Blue:	0xdb00
+)
+
+(TClr.679
+)
+
+(TClr.680
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.681
+	Color:	682
+	Outline:	1
+	OutlineColor:	683
+	OutlineWidth:	0.10000000000000
+	BgColor:	684
+)
+
+(TClr.682
+	Red:	0xf200
+	Green:	0xf200
+	Blue:	0xdb00
+)
+
+(TClr.683
+)
+
+(TClr.684
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.685
+	Color:	686
+	Outline:	1
+	OutlineColor:	687
+	OutlineWidth:	0.10000000000000
+	BgColor:	688
+)
+
+(TClr.686
+	Red:	0xf200
+	Green:	0xf200
+	Blue:	0xdb00
+)
+
+(TClr.687
+)
+
+(TClr.688
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.689
+	Color:	690
+	Outline:	1
+	OutlineColor:	691
+	OutlineWidth:	0.10000000000000
+	BgColor:	692
+)
+
+(TClr.690
+	Red:	0xf200
+	Green:	0xf200
+	Blue:	0xdb00
+)
+
+(TClr.691
+)
+
+(TClr.692
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.693
+	Color:	694
+	Outline:	1
+	OutlineColor:	695
+	OutlineWidth:	0.10000000000000
+	BgColor:	696
+)
+
+(TClr.694
+	Red:	0xf200
+	Green:	0xf200
+	Blue:	0xdb00
+)
+
+(TClr.695
+)
+
+(TClr.696
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.697
+	Color:	698
+	Outline:	1
+	OutlineColor:	699
+	OutlineWidth:	0.10000000000000
+	BgColor:	700
+)
+
+(TClr.698
+	Red:	0xf200
+	Green:	0xf200
+	Blue:	0xdb00
+)
+
+(TClr.699
+)
+
+(TClr.700
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.701
+	Color:	702
+	Outline:	1
+	OutlineColor:	703
+	OutlineWidth:	0.10000000000000
+	BgColor:	704
+)
+
+(TClr.702
+	Red:	0xd800
+	Green:	0x9900
+	Blue:	0xf200
+)
+
+(TClr.703
+)
+
+(TClr.704
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.705
+	Color:	706
+	Outline:	1
+	OutlineColor:	707
+	OutlineWidth:	0.10000000000000
+	BgColor:	708
+)
+
+(TClr.706
+	Red:	0xf200
+	Green:	0xf200
+	Blue:	0xdb00
+)
+
+(TClr.707
+)
+
+(TClr.708
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.709
+	Color:	710
+	Outline:	1
+	OutlineColor:	711
+	OutlineWidth:	0.10000000000000
+	BgColor:	712
+)
+
+(TClr.710
+	Red:	0xb500
+	Green:	0x7f00
+	Blue:	0xba00
+)
+
+(TClr.711
+)
+
+(TClr.712
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.713
+	Color:	714
+	Outline:	1
+	OutlineColor:	715
+	OutlineWidth:	0.10000000000000
+	BgColor:	716
+)
+
+(TClr.714
+	Red:	0xf200
+	Green:	0xf200
+	Blue:	0xdb00
+)
+
+(TClr.715
+)
+
+(TClr.716
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.717
+	Color:	718
+	Outline:	1
+	OutlineColor:	719
+	OutlineWidth:	0.10000000000000
+	BgColor:	720
+)
+
+(TClr.718
+	Red:	0x5600
+	Green:	0xc100
+	Blue:	0xbf00
+)
+
+(TClr.719
+)
+
+(TClr.720
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.721
+	Color:	722
+	Outline:	1
+	OutlineColor:	723
+	OutlineWidth:	0.10000000000000
+	BgColor:	724
+)
+
+(TClr.722
+	Red:	0xc100
+	Green:	0xaa00
+	Blue:	0xbf00
+)
+
+(TClr.723
+)
+
+(TClr.724
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.725
+	Color:	726
+	Outline:	1
+	OutlineColor:	727
+	OutlineWidth:	0.10000000000000
+	BgColor:	728
+)
+
+(TClr.726
+	Red:	0xf200
+	Green:	0xad00
+	Blue:	0x6300
+)
+
+(TClr.727
+)
+
+(TClr.728
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.729
+	Color:	730
+	Outline:	1
+	OutlineColor:	731
+	OutlineWidth:	0.10000000000000
+	BgColor:	732
+)
+
+(TClr.730
+	Red:	0xc100
+	Green:	0xa300
+	Blue:	0x5900
+)
+
+(TClr.731
+)
+
+(TClr.732
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.733
+	Color:	734
+	Outline:	1
+	OutlineColor:	735
+	OutlineWidth:	0.10000000000000
+	BgColor:	736
+)
+
+(TClr.734
+	Red:	0xaf00
+	Green:	0xba00
+	Blue:	0x4400
+)
+
+(TClr.735
+)
+
+(TClr.736
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.737
+	Color:	738
+	Outline:	1
+	OutlineColor:	739
+	OutlineWidth:	0.10000000000000
+	BgColor:	740
+)
+
+(TClr.738
+	Red:	0x8900
+	Green:	0xba00
+	Blue:	0xf00
+)
+
+(TClr.739
+)
+
+(TClr.740
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.741
+	Color:	742
+	Outline:	1
+	OutlineColor:	743
+	OutlineWidth:	0.10000000000000
+	BgColor:	744
+)
+
+(TClr.742
+	Red:	0xd100
+	Green:	0xb200
+	Blue:	0x8c00
+)
+
+(TClr.743
+)
+
+(TClr.744
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.745
+	Color:	746
+	Outline:	1
+	OutlineColor:	747
+	OutlineWidth:	0.10000000000000
+	BgColor:	748
+)
+
+(TClr.746
+	Red:	0xd100
+	Green:	0xb200
+	Blue:	0x8c00
+)
+
+(TClr.747
+)
+
+(TClr.748
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.749
+	Color:	750
+	Outline:	1
+	OutlineColor:	751
+	OutlineWidth:	0.10000000000000
+	BgColor:	752
+)
+
+(TClr.750
+	Red:	0xaf00
+	Green:	0x8200
+	Blue:	0x4400
+)
+
+(TClr.751
+)
+
+(TClr.752
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.753
+	Color:	754
+	Outline:	1
+	OutlineColor:	755
+	OutlineWidth:	0.10000000000000
+	BgColor:	756
+)
+
+(TClr.754
+	Red:	0xaf00
+	Green:	0x8200
+	Blue:	0x4400
+)
+
+(TClr.755
+)
+
+(TClr.756
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.757
+	Color:	758
+	Outline:	1
+	OutlineColor:	759
+	OutlineWidth:	0.10000000000000
+	BgColor:	760
+)
+
+(TClr.758
+	Red:	0xaf00
+	Green:	0x8200
+	Blue:	0x4400
+)
+
+(TClr.759
+)
+
+(TClr.760
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.761
+	Color:	762
+	Outline:	1
+	OutlineColor:	763
+	OutlineWidth:	0.10000000000000
+	BgColor:	764
+)
+
+(TClr.762
+	Red:	0x8c00
+	Green:	0xaa00
+	Blue:	0x4700
+)
+
+(TClr.763
+)
+
+(TClr.764
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.765
+	Color:	766
+	Outline:	1
+	OutlineColor:	767
+	OutlineWidth:	0.10000000000000
+	BgColor:	768
+)
+
+(TClr.766
+	Red:	0xd300
+	Green:	0x9e00
+	Blue:	0x2b00
+)
+
+(TClr.767
+)
+
+(TClr.768
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.769
+	Color:	770
+	Outline:	1
+	OutlineColor:	771
+	OutlineWidth:	0.10000000000000
+	BgColor:	772
+)
+
+(TClr.770
+	Red:	0xd800
+	Green:	0x9900
+	Blue:	0xf200
+)
+
+(TClr.771
+)
+
+(TClr.772
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.773
+	Color:	774
+	Outline:	1
+	OutlineColor:	775
+	OutlineWidth:	0.10000000000000
+	BgColor:	776
+)
+
+(TClr.774
+	Red:	0x5e00
+	Green:	0xbf00
+	Blue:	0xa800
+)
+
+(TClr.775
+)
+
+(TClr.776
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.777
+	Color:	778
+	Outline:	1
+	OutlineColor:	779
+	OutlineWidth:	0.10000000000000
+	BgColor:	780
+)
+
+(TClr.778
+	Red:	0x8900
+	Green:	0xaa00
+	Blue:	0x5400
+)
+
+(TClr.779
+)
+
+(TClr.780
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.781
+	Color:	782
+	Outline:	1
+	OutlineColor:	783
+	OutlineWidth:	0.10000000000000
+	BgColor:	784
+)
+
+(TClr.782
+	Name:	"Transparent"
+)
+
+(TClr.783
+)
+
+(TClr.784
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.785
+	Label:	"Open Water (Fresh)"
+	MinNum:	1.00000000000000
+	MaxNum:	1.00000000000000
+	Precision:	-3
+)
+
+(LClass.786
+	Label:	"Open Water (Brackish/Salt)"
+	MinNum:	2.00000000000000
+	MaxNum:	2.00000000000000
+	Precision:	-3
+)
+
+(LClass.787
+	Label:	"Open Water (Aquaculture)"
+	MinNum:	3.00000000000000
+	MaxNum:	3.00000000000000
+	Precision:	-3
+)
+
+(LClass.788
+	Label:	"Developed Open Space"
+	MinNum:	4.00000000000000
+	MaxNum:	4.00000000000000
+	Precision:	-3
+)
+
+(LClass.789
+	Label:	"Developed Open Space"
+	MinNum:	5.00000000000000
+	MaxNum:	5.00000000000000
+	Precision:	-3
+)
+
+(LClass.790
+	Label:	"Medium Intensity Developed"
+	MinNum:	6.00000000000000
+	MaxNum:	6.00000000000000
+	Precision:	-3
+)
+
+(LClass.791
+	Label:	"High Intensity Developed"
+	MinNum:	7.00000000000000
+	MaxNum:	7.00000000000000
+	Precision:	-3
+)
+
+(LClass.792
+	Label:	"Atlantic Coastal Plain Sea Island Beach"
+	MinNum:	10.00000000000000
+	MaxNum:	10.00000000000000
+	Precision:	-3
+)
+
+(LClass.793
+	Label:	"Atlantic Coastal Plain Southern Beach"
+	MinNum:	11.00000000000000
+	MaxNum:	11.00000000000000
+	Precision:	-3
+)
+
+(LClass.794
+	Label:	"Florida Panhandle Beach Vegetation"
+	MinNum:	12.00000000000000
+	MaxNum:	12.00000000000000
+	Precision:	-3
+)
+
+(LClass.795
+	Label:	"South Florida Shell Hash Beach"
+	MinNum:	13.00000000000000
+	MaxNum:	13.00000000000000
+	Precision:	-3
+)
+
+(LClass.796
+	Label:	"Southeast Florida Beach"
+	MinNum:	14.00000000000000
+	MaxNum:	14.00000000000000
+	Precision:	-3
+)
+
+(LClass.797
+	Label:	"Southwest Florida Beach"
+	MinNum:	15.00000000000000
+	MaxNum:	15.00000000000000
+	Precision:	-3
+)
+
+(LClass.798
+	Label:	"Bare Sand"
+	MinNum:	16.00000000000000
+	MaxNum:	16.00000000000000
+	Precision:	-3
+)
+
+(LClass.799
+	Label:	"Bare Soil"
+	MinNum:	17.00000000000000
+	MaxNum:	17.00000000000000
+	Precision:	-3
+)
+
+(LClass.800
+	Label:	"Quarry/Strip Mine/Gravel Pit"
+	MinNum:	18.00000000000000
+	MaxNum:	18.00000000000000
+	Precision:	-3
+)
+
+(LClass.801
+	Label:	"Southern Appalachian Rocky Summit"
+	MinNum:	19.00000000000000
+	MaxNum:	19.00000000000000
+	Precision:	-3
+)
+
+(LClass.802
+	Label:	"Southern Appalachian Granitic Dome"
+	MinNum:	20.00000000000000
+	MaxNum:	20.00000000000000
+	Precision:	-3
+)
+
+(LClass.803
+	Label:	"North-Central Appalachian Acidic Cliff and Talus"
+	MinNum:	21.00000000000000
+	MaxNum:	21.00000000000000
+	Precision:	-3
+)
+
+(LClass.804
+	Label:	"North-Central Appalachian Circumneutral Cliff and Talus"
+	MinNum:	22.00000000000000
+	MaxNum:	22.00000000000000
+	Precision:	-3
+)
+
+(LClass.805
+	Label:	"Central Interior Calcareous Cliff and Talus"
+	MinNum:	24.00000000000000
+	MaxNum:	24.00000000000000
+	Precision:	-3
+)
+
+(LClass.806
+	Label:	"Central Interior Acidic Cliff and Talus"
+	MinNum:	25.00000000000000
+	MaxNum:	25.00000000000000
+	Precision:	-3
+)
+
+(LClass.807
+	Label:	"Southern Appalachian Montane Cliff"
+	MinNum:	26.00000000000000
+	MaxNum:	26.00000000000000
+	Precision:	-3
+)
+
+(LClass.808
+	Label:	"Southern Interior Acid Cliff"
+	MinNum:	28.00000000000000
+	MaxNum:	28.00000000000000
+	Precision:	-3
+)
+
+(LClass.809
+	Label:	"Southern Interior Calcareous Cliff"
+	MinNum:	29.00000000000000
+	MaxNum:	29.00000000000000
+	Precision:	-3
+)
+
+(LClass.810
+	Label:	"Southern Piedmont Cliff"
+	MinNum:	30.00000000000000
+	MaxNum:	30.00000000000000
+	Precision:	-3
+)
+
+(LClass.811
+	Label:	"East Gulf Coastal Plain Dry Chalk Bluff"
+	MinNum:	32.00000000000000
+	MaxNum:	32.00000000000000
+	Precision:	-3
+)
+
+(LClass.812
+	Label:	"Southern Piedmont Granite Flatrock"
+	MinNum:	33.00000000000000
+	MaxNum:	33.00000000000000
+	Precision:	-3
+)
+
+(LClass.813
+	Label:	"Unconsolidated Shore (Lake/River/Pond)"
+	MinNum:	35.00000000000000
+	MaxNum:	35.00000000000000
+	Precision:	-3
+)
+
+(LClass.814
+	Label:	"Unconsolidated Shore (Beach/Dune)"
+	MinNum:	36.00000000000000
+	MaxNum:	36.00000000000000
+	Precision:	-3
+)
+
+(LClass.815
+	Label:	"Deciduous Plantations"
+	MinNum:	37.00000000000000
+	MaxNum:	37.00000000000000
+	Precision:	-3
+)
+
+(LClass.816
+	Label:	"Allegheny-Cumberland Dry Oak Forest and Woodland - Hardwood"
+	MinNum:	38.00000000000000
+	MaxNum:	38.00000000000000
+	Precision:	-3
+)
+
+(LClass.817
+	Label:	"Atlantic Coastal Plain Dry and Dry-Mesic Oak Forest"
+	MinNum:	39.00000000000000
+	MaxNum:	39.00000000000000
+	Precision:	-3
+)
+
+(LClass.818
+	Label:	"Atlantic Coastal Plain Mesic Hardwood and Mixed Forest"
+	MinNum:	40.00000000000000
+	MaxNum:	40.00000000000000
+	Precision:	-3
+)
+
+(LClass.819
+	Label:	"Central and Southern Appalachian Montane Oak Forest"
+	MinNum:	42.00000000000000
+	MaxNum:	42.00000000000000
+	Precision:	-3
+)
+
+(LClass.820
+	Label:	"Central and Southern Appalachian Northern Hardwood Forest"
+	MinNum:	43.00000000000000
+	MaxNum:	43.00000000000000
+	Precision:	-3
+)
+
+(LClass.821
+	Label:	"East Gulf Coastal Plain Interior Shortleaf Pine-Oak Forest - Hardwood Modifier"
+	MinNum:	44.00000000000000
+	MaxNum:	44.00000000000000
+	Precision:	-3
+)
+
+(LClass.822
+	Label:	"East Gulf Coastal Plain Limestone Forest"
+	MinNum:	45.00000000000000
+	MaxNum:	45.00000000000000
+	Precision:	-3
+)
+
+(LClass.823
+	Label:	"East Gulf Coastal Plain Northern Dry Upland Hardwood Forest"
+	MinNum:	46.00000000000000
+	MaxNum:	46.00000000000000
+	Precision:	-3
+)
+
+(LClass.824
+	Label:	"East Gulf Coastal Plain Northern Loess Bluff Forest"
+	MinNum:	47.00000000000000
+	MaxNum:	47.00000000000000
+	Precision:	-3
+)
+
+(LClass.825
+	Label:	"East Gulf Coastal Plain Northern Loess Plain Oak-Hickory Upland - Hardwood Modifier"
+	MinNum:	48.00000000000000
+	MaxNum:	48.00000000000000
+	Precision:	-3
+)
+
+(LClass.826
+	Label:	"East Gulf Coastal Plain Northern Mesic Hardwood Forest"
+	MinNum:	49.00000000000000
+	MaxNum:	49.00000000000000
+	Precision:	-3
+)
+
+(LClass.827
+	Label:	"East Gulf Coastal Plain Southern Loess Bluff Forest"
+	MinNum:	50.00000000000000
+	MaxNum:	50.00000000000000
+	Precision:	-3
+)
+
+(LClass.828
+	Label:	"East Gulf Coastal Plain Southern Mesic Slope Forest"
+	MinNum:	51.00000000000000
+	MaxNum:	51.00000000000000
+	Precision:	-3
+)
+
+(LClass.829
+	Label:	"Northeastern Interior Dry Oak Forest-Hardwood Modifier"
+	MinNum:	52.00000000000000
+	MaxNum:	52.00000000000000
+	Precision:	-3
+)
+
+(LClass.830
+	Label:	"South-Central Interior Highlands Dry Oak Forest"
+	MinNum:	53.00000000000000
+	MaxNum:	53.00000000000000
+	Precision:	-3
+)
+
+(LClass.831
+	Label:	"South-Central Interior Mesophytic Forest"
+	MinNum:	54.00000000000000
+	MaxNum:	54.00000000000000
+	Precision:	-3
+)
+
+(LClass.832
+	Label:	"Southern and Central Appalachian Cove Forest"
+	MinNum:	55.00000000000000
+	MaxNum:	55.00000000000000
+	Precision:	-3
+)
+
+(LClass.833
+	Label:	"Southern and Central Appalachian Oak Forest"
+	MinNum:	56.00000000000000
+	MaxNum:	56.00000000000000
+	Precision:	-3
+)
+
+(LClass.834
+	Label:	"Southern Coastal Plain Dry Upland Hardwood Forest"
+	MinNum:	57.00000000000000
+	MaxNum:	57.00000000000000
+	Precision:	-3
+)
+
+(LClass.835
+	Label:	"Southern Ridge and Valley Dry Calcareous Forest"
+	MinNum:	60.00000000000000
+	MaxNum:	60.00000000000000
+	Precision:	-3
+)
+
+(LClass.836
+	Label:	"Atlantic Coastal Plain Fall-line Sandhills Longleaf Pine Woodland - Offsite Hardwood Modifier"
+	MinNum:	61.00000000000000
+	MaxNum:	61.00000000000000
+	Precision:	-3
+)
+
+(LClass.837
+	Label:	"East Gulf Coastal Plain Interior Upland Longleaf Pine Woodland - Offsite Hardwood Modifier"
+	MinNum:	62.00000000000000
+	MaxNum:	62.00000000000000
+	Precision:	-3
+)
+
+(LClass.838
+	Label:	"Atlantic Coastal Plain Northern Maritime Forest"
+	MinNum:	63.00000000000000
+	MaxNum:	63.00000000000000
+	Precision:	-3
+)
+
+(LClass.839
+	Label:	"Southern Piedmont Dry Oak-(Pine) Forest - Hardwood Modifier"
+	MinNum:	66.00000000000000
+	MaxNum:	66.00000000000000
+	Precision:	-3
+)
+
+(LClass.840
+	Label:	"Southern Piedmont Mesic Forest"
+	MinNum:	68.00000000000000
+	MaxNum:	68.00000000000000
+	Precision:	-3
+)
+
+(LClass.841
+	Label:	"East Gulf Coastal Plain Black Belt Calcareous Prairie and Woodland - Woodland Modifier"
+	MinNum:	69.00000000000000
+	MaxNum:	69.00000000000000
+	Precision:	-3
+)
+
+(LClass.842
+	Label:	"Northern Atlantic Coastal Plain Dry Hardwood Forest"
+	MinNum:	70.00000000000000
+	MaxNum:	70.00000000000000
+	Precision:	-3
+)
+
+(LClass.843
+	Label:	"Evergreen Plantations or Managed Pine (can include dense successional regrowth)"
+	MinNum:	71.00000000000000
+	MaxNum:	71.00000000000000
+	Precision:	-3
+)
+
+(LClass.844
+	Label:	"Atlantic Coastal Plain Central Maritime Forest"
+	MinNum:	72.00000000000000
+	MaxNum:	72.00000000000000
+	Precision:	-3
+)
+
+(LClass.845
+	Label:	"Atlantic Coastal Plain Northern Maritime Forest"
+	MinNum:	73.00000000000000
+	MaxNum:	73.00000000000000
+	Precision:	-3
+)
+
+(LClass.846
+	Label:	"Atlantic Coastal Plain Southern Maritime Forest"
+	MinNum:	74.00000000000000
+	MaxNum:	74.00000000000000
+	Precision:	-3
+)
+
+(LClass.847
+	Label:	"Central and Southern Appalachian Spruce-Fir Forest"
+	MinNum:	75.00000000000000
+	MaxNum:	75.00000000000000
+	Precision:	-3
+)
+
+(LClass.848
+	Label:	"Florida Longleaf Pine Sandhill- Open Understory Modifier"
+	MinNum:	76.00000000000000
+	MaxNum:	76.00000000000000
+	Precision:	-3
+)
+
+(LClass.849
+	Label:	"Florida Longleaf Pine Sandhill - Scrub/Shrub Understory Modifier"
+	MinNum:	77.00000000000000
+	MaxNum:	77.00000000000000
+	Precision:	-3
+)
+
+(LClass.850
+	Label:	"East Gulf Coastal Plain Maritime Forest"
+	MinNum:	79.00000000000000
+	MaxNum:	79.00000000000000
+	Precision:	-3
+)
+
+(LClass.851
+	Label:	"East Gulf Coastal Plain Northern Loess Plain Oak-Hickory Upland - Juniper Modifier"
+	MinNum:	80.00000000000000
+	MaxNum:	80.00000000000000
+	Precision:	-3
+)
+
+(LClass.852
+	Label:	"Northeastern Interior Dry Oak Forest - Virginia/Pitch Pine Modifier"
+	MinNum:	82.00000000000000
+	MaxNum:	82.00000000000000
+	Precision:	-3
+)
+
+(LClass.853
+	Label:	"South Florida Hardwood Hammock"
+	MinNum:	83.00000000000000
+	MaxNum:	83.00000000000000
+	Precision:	-3
+)
+
+(LClass.854
+	Label:	"Southeast Florida Coastal Strand and Maritime Hammock"
+	MinNum:	84.00000000000000
+	MaxNum:	84.00000000000000
+	Precision:	-3
+)
+
+(LClass.855
+	Label:	"Southern Appalachian Low Mountain Pine Forest"
+	MinNum:	85.00000000000000
+	MaxNum:	85.00000000000000
+	Precision:	-3
+)
+
+(LClass.856
+	Label:	"Southern Piedmont Dry Oak-(Pine) Forest - Loblolly Pine Modifier"
+	MinNum:	86.00000000000000
+	MaxNum:	86.00000000000000
+	Precision:	-3
+)
+
+(LClass.857
+	Label:	"Southern Piedmont Dry Oak-Heath Forest - Virginia/Pitch Pine Modifier"
+	MinNum:	87.00000000000000
+	MaxNum:	87.00000000000000
+	Precision:	-3
+)
+
+(LClass.858
+	Label:	"Southwest Florida Coastal Strand and Maritime Hammock"
+	MinNum:	88.00000000000000
+	MaxNum:	88.00000000000000
+	Precision:	-3
+)
+
+(LClass.859
+	Label:	"Atlantic Coastal Plain Fall-Line Sandhills Longleaf Pine Woodland - Loblolly Modifier"
+	MinNum:	90.00000000000000
+	MaxNum:	90.00000000000000
+	Precision:	-3
+)
+
+(LClass.860
+	Label:	"Atlantic Coastal Plain Fall-line Sandhills Longleaf Pine Woodland - Open Understory Modifier"
+	MinNum:	91.00000000000000
+	MaxNum:	91.00000000000000
+	Precision:	-3
+)
+
+(LClass.861
+	Label:	"Atlantic Coastal Plain Fall-line Sandhills Longleaf Pine Woodland - Scrub/Shrub Understory Modifier"
+	MinNum:	92.00000000000000
+	MaxNum:	92.00000000000000
+	Precision:	-3
+)
+
+(LClass.862
+	Label:	"Atlantic Coastal Plain Upland Longleaf Pine Woodland"
+	MinNum:	93.00000000000000
+	MaxNum:	93.00000000000000
+	Precision:	-3
+)
+
+(LClass.863
+	Label:	"East Gulf Coastal Plain Interior Upland Longleaf Pine Woodland - Loblolly Modifier"
+	MinNum:	94.00000000000000
+	MaxNum:	94.00000000000000
+	Precision:	-3
+)
+
+(LClass.864
+	Label:	"East Gulf Coastal Plain Interior Upland Longleaf Pine Woodland - Open Understory Modifier"
+	MinNum:	95.00000000000000
+	MaxNum:	95.00000000000000
+	Precision:	-3
+)
+
+(LClass.865
+	Label:	"East Gulf Coastal Plain Interior Upland Longleaf Pine Woodland - Scrub/Shrub Modifier"
+	MinNum:	96.00000000000000
+	MaxNum:	96.00000000000000
+	Precision:	-3
+)
+
+(LClass.866
+	Label:	"South Florida Pine Rockland"
+	MinNum:	97.00000000000000
+	MaxNum:	97.00000000000000
+	Precision:	-3
+)
+
+(LClass.867
+	Label:	"Southern Appalachian Montane Pine Forest and Woodland"
+	MinNum:	98.00000000000000
+	MaxNum:	98.00000000000000
+	Precision:	-3
+)
+
+(LClass.868
+	Label:	"Southern Coastal Plain Oak Dome and Hammock"
+	MinNum:	99.00000000000000
+	MaxNum:	99.00000000000000
+	Precision:	-3
+)
+
+(LClass.869
+	Label:	"Southeastern Interior Longleaf Pine Woodland"
+	MinNum:	100.00000000000000
+	MaxNum:	100.00000000000000
+	Precision:	-3
+)
+
+(LClass.870
+	Label:	"East Gulf Coastal Plain Northern Dry Upland Hardwood Forest - Offsite Pine Modifier"
+	MinNum:	101.00000000000000
+	MaxNum:	101.00000000000000
+	Precision:	-3
+)
+
+(LClass.871
+	Label:	"Allegheny-Cumberland Dry Oak Forest and Woodland - Pine Modifier"
+	MinNum:	102.00000000000000
+	MaxNum:	102.00000000000000
+	Precision:	-3
+)
+
+(LClass.872
+	Label:	"Southern Ridge and Valley Dry Calcareous Forest - Pine modifier"
+	MinNum:	103.00000000000000
+	MaxNum:	103.00000000000000
+	Precision:	-3
+)
+
+(LClass.873
+	Label:	"Appalachian Hemlock-Hardwood Forest"
+	MinNum:	104.00000000000000
+	MaxNum:	104.00000000000000
+	Precision:	-3
+)
+
+(LClass.874
+	Label:	"Central Appalachian Oak and Pine Forest"
+	MinNum:	105.00000000000000
+	MaxNum:	105.00000000000000
+	Precision:	-3
+)
+
+(LClass.875
+	Label:	"East Gulf Coastal Plain Interior Shortleaf Pine-Oak Forest - Mixed Modifier"
+	MinNum:	106.00000000000000
+	MaxNum:	106.00000000000000
+	Precision:	-3
+)
+
+(LClass.876
+	Label:	"Northeastern Interior Dry Oak Forest - Mixed Modifier"
+	MinNum:	107.00000000000000
+	MaxNum:	107.00000000000000
+	Precision:	-3
+)
+
+(LClass.877
+	Label:	"Southern Piedmont Dry Oak-(Pine) Forest - Mixed Modifier"
+	MinNum:	108.00000000000000
+	MaxNum:	108.00000000000000
+	Precision:	-3
+)
+
+(LClass.878
+	Label:	"Southern Piedmont Dry Oak-Heath Forest - Mixed Modifier"
+	MinNum:	109.00000000000000
+	MaxNum:	109.00000000000000
+	Precision:	-3
+)
+
+(LClass.879
+	Label:	"Central Appalachian Pine-Oak Rocky Woodland"
+	MinNum:	113.00000000000000
+	MaxNum:	113.00000000000000
+	Precision:	-3
+)
+
+(LClass.880
+	Label:	"Cumberland Sandstone Glade and Barrens"
+	MinNum:	116.00000000000000
+	MaxNum:	116.00000000000000
+	Precision:	-3
+)
+
+(LClass.881
+	Label:	"Nashville Basin Limestone Glade"
+	MinNum:	117.00000000000000
+	MaxNum:	117.00000000000000
+	Precision:	-3
+)
+
+(LClass.882
+	Label:	"Ridge and Valley Calcareous Valley Bottom Glade and Woodland"
+	MinNum:	118.00000000000000
+	MaxNum:	118.00000000000000
+	Precision:	-3
+)
+
+(LClass.883
+	Label:	"Southern Piedmont Glade and Barrens"
+	MinNum:	119.00000000000000
+	MaxNum:	119.00000000000000
+	Precision:	-3
+)
+
+(LClass.884
+	Label:	"Southern Appalachian Grass and Shrub Bald - Shrub Modifier"
+	MinNum:	123.00000000000000
+	MaxNum:	123.00000000000000
+	Precision:	-3
+)
+
+(LClass.885
+	Label:	"Florida Peninsula Inland Scrub"
+	MinNum:	124.00000000000000
+	MaxNum:	124.00000000000000
+	Precision:	-3
+)
+
+(LClass.886
+	Label:	"Successional Shrub/Scrub (Clear Cut)"
+	MinNum:	125.00000000000000
+	MaxNum:	125.00000000000000
+	Precision:	-3
+)
+
+(LClass.887
+	Label:	"Successional Shrub/Scrub (Utility Swath)"
+	MinNum:	126.00000000000000
+	MaxNum:	126.00000000000000
+	Precision:	-3
+)
+
+(LClass.888
+	Label:	"Successional Shrub/Scrub (Other)"
+	MinNum:	127.00000000000000
+	MaxNum:	127.00000000000000
+	Precision:	-3
+)
+
+(LClass.889
+	Label:	"Southern Appalachian Grass and Shrub Bald - Herbaceous Modifier"
+	MinNum:	130.00000000000000
+	MaxNum:	130.00000000000000
+	Precision:	-3
+)
+
+(LClass.890
+	Label:	"East Gulf Coastal Plain Black Belt Calcareous Prairie and Woodland - Herbaceous Modifier"
+	MinNum:	132.00000000000000
+	MaxNum:	132.00000000000000
+	Precision:	-3
+)
+
+(LClass.891
+	Label:	"East Gulf Coastal Plain Jackson Prairie and Woodland"
+	MinNum:	134.00000000000000
+	MaxNum:	134.00000000000000
+	Precision:	-3
+)
+
+(LClass.892
+	Label:	"Eastern Highland Rim Prairie and Barrens - Dry Modifier"
+	MinNum:	135.00000000000000
+	MaxNum:	135.00000000000000
+	Precision:	-3
+)
+
+(LClass.893
+	Label:	"Florida Dry Prairie"
+	MinNum:	136.00000000000000
+	MaxNum:	136.00000000000000
+	Precision:	-3
+)
+
+(LClass.894
+	Label:	"Atlantic Coastal Plain Northern Dune and Maritime Grassland"
+	MinNum:	141.00000000000000
+	MaxNum:	141.00000000000000
+	Precision:	-3
+)
+
+(LClass.895
+	Label:	"Atlantic Coastal Plain Southern Dune and Maritime Grassland"
+	MinNum:	142.00000000000000
+	MaxNum:	142.00000000000000
+	Precision:	-3
+)
+
+(LClass.896
+	Label:	"East Gulf Coastal Plain Dune and Coastal Grassland"
+	MinNum:	143.00000000000000
+	MaxNum:	143.00000000000000
+	Precision:	-3
+)
+
+(LClass.897
+	Label:	"Southwest Florida Dune and Coastal Grassland"
+	MinNum:	144.00000000000000
+	MaxNum:	144.00000000000000
+	Precision:	-3
+)
+
+(LClass.898
+	Label:	"Clearcut - Grassland/Herbaceous"
+	MinNum:	145.00000000000000
+	MaxNum:	145.00000000000000
+	Precision:	-3
+)
+
+(LClass.899
+	Label:	"Other - Herbaceous"
+	MinNum:	146.00000000000000
+	MaxNum:	146.00000000000000
+	Precision:	-3
+)
+
+(LClass.900
+	Label:	"Utility Swath - Herbaceous"
+	MinNum:	147.00000000000000
+	MaxNum:	147.00000000000000
+	Precision:	-3
+)
+
+(LClass.901
+	Label:	"Pasture/Hay"
+	MinNum:	148.00000000000000
+	MaxNum:	148.00000000000000
+	Precision:	-3
+)
+
+(LClass.902
+	Label:	"Row Crop"
+	MinNum:	149.00000000000000
+	MaxNum:	149.00000000000000
+	Precision:	-3
+)
+
+(LClass.903
+	Label:	"Atlantic Coastal Plain Blackwater Stream Floodplain Forest - Forest Modifier"
+	MinNum:	151.00000000000000
+	MaxNum:	151.00000000000000
+	Precision:	-3
+)
+
+(LClass.904
+	Label:	"Atlantic Coastal Plain Brownwater Stream Floodplain Forest"
+	MinNum:	152.00000000000000
+	MaxNum:	152.00000000000000
+	Precision:	-3
+)
+
+(LClass.905
+	Label:	"Atlantic Coastal Plain Small Blackwater River Floodplain Forest"
+	MinNum:	153.00000000000000
+	MaxNum:	153.00000000000000
+	Precision:	-3
+)
+
+(LClass.906
+	Label:	"Atlantic Coastal Plain Small Brownwater River Floodplain Forest"
+	MinNum:	154.00000000000000
+	MaxNum:	154.00000000000000
+	Precision:	-3
+)
+
+(LClass.907
+	Label:	"Central Appalachian Floodplain - Forest Modifier"
+	MinNum:	155.00000000000000
+	MaxNum:	155.00000000000000
+	Precision:	-3
+)
+
+(LClass.908
+	Label:	"Central Appalachian Riparian - Forest Modifier"
+	MinNum:	156.00000000000000
+	MaxNum:	156.00000000000000
+	Precision:	-3
+)
+
+(LClass.909
+	Label:	"East Gulf Coastal Plain Large River Floodplain Forest - Forest Modifier"
+	MinNum:	157.00000000000000
+	MaxNum:	157.00000000000000
+	Precision:	-3
+)
+
+(LClass.910
+	Label:	"East Gulf Coastal Plain Small Stream and River Floodplain Forest"
+	MinNum:	158.00000000000000
+	MaxNum:	158.00000000000000
+	Precision:	-3
+)
+
+(LClass.911
+	Label:	"Mississippi River Low Floodplain (Bottomland) Forest"
+	MinNum:	159.00000000000000
+	MaxNum:	159.00000000000000
+	Precision:	-3
+)
+
+(LClass.912
+	Label:	"Lower Mississippi River Bottomland Depressions - Forest Modifier"
+	MinNum:	160.00000000000000
+	MaxNum:	160.00000000000000
+	Precision:	-3
+)
+
+(LClass.913
+	Label:	"South-Central Interior Large Floodplain - Forest Modifier"
+	MinNum:	161.00000000000000
+	MaxNum:	161.00000000000000
+	Precision:	-3
+)
+
+(LClass.914
+	Label:	"South-Central Interior Small Stream and Riparian"
+	MinNum:	162.00000000000000
+	MaxNum:	162.00000000000000
+	Precision:	-3
+)
+
+(LClass.915
+	Label:	"Southern Coastal Plain Blackwater River Floodplain Forest"
+	MinNum:	163.00000000000000
+	MaxNum:	163.00000000000000
+	Precision:	-3
+)
+
+(LClass.916
+	Label:	"Southern Piedmont Large Floodplain Forest - Forest Modifier"
+	MinNum:	164.00000000000000
+	MaxNum:	164.00000000000000
+	Precision:	-3
+)
+
+(LClass.917
+	Label:	"Southern Piedmont Small Floodplain and Riparian Forest"
+	MinNum:	165.00000000000000
+	MaxNum:	165.00000000000000
+	Precision:	-3
+)
+
+(LClass.918
+	Label:	"Mississippi River Riparian Forest"
+	MinNum:	166.00000000000000
+	MaxNum:	166.00000000000000
+	Precision:	-3
+)
+
+(LClass.919
+	Label:	"Atlantic Coastal Plain Nonriverine Swamp and Wet Hardwood Forest  - Taxodium/Nyssa Modifier"
+	MinNum:	167.00000000000000
+	MaxNum:	167.00000000000000
+	Precision:	-3
+)
+
+(LClass.920
+	Label:	"Atlantic Coastal Plain Nonriverine Swamp and Wet Hardwood Forest - Oak Dominated Modifier"
+	MinNum:	168.00000000000000
+	MaxNum:	168.00000000000000
+	Precision:	-3
+)
+
+(LClass.921
+	Label:	"Southern Coastal Plain Nonriverine Basin Swamp - Okefenokee Taxodium Modifier"
+	MinNum:	169.00000000000000
+	MaxNum:	169.00000000000000
+	Precision:	-3
+)
+
+(LClass.922
+	Label:	"Southern Coastal Plain Nonriverine Basin Swamp - Okefenokee Bay/Gum Modifier"
+	MinNum:	170.00000000000000
+	MaxNum:	170.00000000000000
+	Precision:	-3
+)
+
+(LClass.923
+	Label:	"Southern Coastal Plain Nonriverine Basin Swamp - Okefenokee Pine Modifier"
+	MinNum:	171.00000000000000
+	MaxNum:	171.00000000000000
+	Precision:	-3
+)
+
+(LClass.924
+	Label:	"South Florida Bayhead Swamp"
+	MinNum:	172.00000000000000
+	MaxNum:	172.00000000000000
+	Precision:	-3
+)
+
+(LClass.925
+	Label:	"Atlantic Coastal Plain Clay-Based Carolina Bay Forested Wetland"
+	MinNum:	173.00000000000000
+	MaxNum:	173.00000000000000
+	Precision:	-3
+)
+
+(LClass.926
+	Label:	"Atlantic Coastal Plain Northern Basin Swamp and Wet Hardwood Forest"
+	MinNum:	174.00000000000000
+	MaxNum:	174.00000000000000
+	Precision:	-3
+)
+
+(LClass.927
+	Label:	"Atlantic Coastal Plain Peatland Pocosin"
+	MinNum:	175.00000000000000
+	MaxNum:	175.00000000000000
+	Precision:	-3
+)
+
+(LClass.928
+	Label:	"Atlantic Coastal Plain Streamhead Seepage Swamp, Pocosin, and Baygall"
+	MinNum:	176.00000000000000
+	MaxNum:	176.00000000000000
+	Precision:	-3
+)
+
+(LClass.929
+	Label:	"Southern Coastal Plain Nonriverine Basin Swamp - Okefenokee Nupea Modifier"
+	MinNum:	177.00000000000000
+	MaxNum:	177.00000000000000
+	Precision:	-3
+)
+
+(LClass.930
+	Label:	"Southern Coastal Plain Nonriverine Basin Swamp - Okefenokee Clethra Modifier"
+	MinNum:	178.00000000000000
+	MaxNum:	178.00000000000000
+	Precision:	-3
+)
+
+(LClass.931
+	Label:	"Southern Coastal Plain Nonriverine Basin Swamp"
+	MinNum:	179.00000000000000
+	MaxNum:	179.00000000000000
+	Precision:	-3
+)
+
+(LClass.932
+	Label:	"Southern Coastal Plain Seepage Swamp and Baygall"
+	MinNum:	180.00000000000000
+	MaxNum:	180.00000000000000
+	Precision:	-3
+)
+
+(LClass.933
+	Label:	"Southern Piedmont/Ridge and Valley Upland Depression Swamp"
+	MinNum:	182.00000000000000
+	MaxNum:	182.00000000000000
+	Precision:	-3
+)
+
+(LClass.934
+	Label:	"Central Atlantic Coastal Plain Wet Longleaf Pine Savanna and Flatwoods"
+	MinNum:	183.00000000000000
+	MaxNum:	183.00000000000000
+	Precision:	-3
+)
+
+(LClass.935
+	Label:	"Atlantic Coastal Plain Southern Wet Pine Savanna and Flatwoods"
+	MinNum:	184.00000000000000
+	MaxNum:	184.00000000000000
+	Precision:	-3
+)
+
+(LClass.936
+	Label:	"Central Florida Pine Flatwoods"
+	MinNum:	185.00000000000000
+	MaxNum:	185.00000000000000
+	Precision:	-3
+)
+
+(LClass.937
+	Label:	"East Gulf Coastal Plain Near-Coast Pine Flatwoods - Offsite Hardwood Modifier"
+	MinNum:	186.00000000000000
+	MaxNum:	186.00000000000000
+	Precision:	-3
+)
+
+(LClass.938
+	Label:	"East Gulf Coastal Plain Near-Coast Pine Flatwoods - Open Understory Modifier"
+	MinNum:	187.00000000000000
+	MaxNum:	187.00000000000000
+	Precision:	-3
+)
+
+(LClass.939
+	Label:	"East Gulf Coastal Plain Near-Coast Pine Flatwoods - Scrub/Shrub Understory Modifier"
+	MinNum:	188.00000000000000
+	MaxNum:	188.00000000000000
+	Precision:	-3
+)
+
+(LClass.940
+	Label:	"East Gulf Coastal Plain Southern Loblolly-Hardwood Flatwoods"
+	MinNum:	189.00000000000000
+	MaxNum:	189.00000000000000
+	Precision:	-3
+)
+
+(LClass.941
+	Label:	"South Florida Dwarf Cypress Savanna"
+	MinNum:	190.00000000000000
+	MaxNum:	190.00000000000000
+	Precision:	-3
+)
+
+(LClass.942
+	Label:	"South Florida Pine Flatwoods"
+	MinNum:	191.00000000000000
+	MaxNum:	191.00000000000000
+	Precision:	-3
+)
+
+(LClass.943
+	Label:	"South-Central Interior/Upper Coastal Plain Wet Flatwoods"
+	MinNum:	192.00000000000000
+	MaxNum:	192.00000000000000
+	Precision:	-3
+)
+
+(LClass.944
+	Label:	"South Florida Cypress Dome"
+	MinNum:	193.00000000000000
+	MaxNum:	193.00000000000000
+	Precision:	-3
+)
+
+(LClass.945
+	Label:	"Southern Coastal Plain Hydric Hammock"
+	MinNum:	194.00000000000000
+	MaxNum:	194.00000000000000
+	Precision:	-3
+)
+
+(LClass.946
+	Label:	"Southern Coastal Plain Nonriverine Cypress Dome"
+	MinNum:	195.00000000000000
+	MaxNum:	195.00000000000000
+	Precision:	-3
+)
+
+(LClass.947
+	Label:	"Cumberland Riverscour"
+	MinNum:	199.00000000000000
+	MaxNum:	199.00000000000000
+	Precision:	-3
+)
+
+(LClass.948
+	Label:	"Southern and Central Appalachian Bog and Fen"
+	MinNum:	203.00000000000000
+	MaxNum:	203.00000000000000
+	Precision:	-3
+)
+
+(LClass.949
+	Label:	"Atlantic Coastal Plain Northern Tidal Wooded Swamp"
+	MinNum:	204.00000000000000
+	MaxNum:	204.00000000000000
+	Precision:	-3
+)
+
+(LClass.950
+	Label:	"Atlantic Coastal Plain Southern Tidal Wooded Swamp"
+	MinNum:	205.00000000000000
+	MaxNum:	205.00000000000000
+	Precision:	-3
+)
+
+(LClass.951
+	Label:	"East Gulf Coastal Plain Tidal Wooded Swamp"
+	MinNum:	206.00000000000000
+	MaxNum:	206.00000000000000
+	Precision:	-3
+)
+
+(LClass.952
+	Label:	"South Florida Mangrove Swamp"
+	MinNum:	207.00000000000000
+	MaxNum:	207.00000000000000
+	Precision:	-3
+)
+
+(LClass.953
+	Label:	"Atlantic Coastal Plain Central Fresh-Oligohaline Tidal Marsh"
+	MinNum:	213.00000000000000
+	MaxNum:	213.00000000000000
+	Precision:	-3
+)
+
+(LClass.954
+	Label:	"Atlantic Coastal Plain Embayed Region Tidal Freshwater Marsh"
+	MinNum:	214.00000000000000
+	MaxNum:	214.00000000000000
+	Precision:	-3
+)
+
+(LClass.955
+	Label:	"Atlantic Coastal Plain Northern Fresh and Oligohaline Tidal Marsh"
+	MinNum:	215.00000000000000
+	MaxNum:	215.00000000000000
+	Precision:	-3
+)
+
+(LClass.956
+	Label:	"Florida Big Bend Fresh-Oligohaline Tidal Marsh"
+	MinNum:	216.00000000000000
+	MaxNum:	216.00000000000000
+	Precision:	-3
+)
+
+(LClass.957
+	Label:	"Atlantic and Gulf Coastal Plain Interdunal Wetland"
+	MinNum:	217.00000000000000
+	MaxNum:	217.00000000000000
+	Precision:	-3
+)
+
+(LClass.958
+	Label:	"Atlantic Coastal Plain Depression Pondshore"
+	MinNum:	218.00000000000000
+	MaxNum:	218.00000000000000
+	Precision:	-3
+)
+
+(LClass.959
+	Label:	"Atlantic Coastal Plain Large Natural Lakeshore"
+	MinNum:	219.00000000000000
+	MaxNum:	219.00000000000000
+	Precision:	-3
+)
+
+(LClass.960
+	Label:	"Central Florida Herbaceous Pondshore"
+	MinNum:	221.00000000000000
+	MaxNum:	221.00000000000000
+	Precision:	-3
+)
+
+(LClass.961
+	Label:	"East Gulf Coastal Plain Southern Depression Pondshore"
+	MinNum:	223.00000000000000
+	MaxNum:	223.00000000000000
+	Precision:	-3
+)
+
+(LClass.962
+	Label:	"Atlantic Coastal Plain Clay-Based Carolina Bay Herbaceous Wetland"
+	MinNum:	225.00000000000000
+	MaxNum:	225.00000000000000
+	Precision:	-3
+)
+
+(LClass.963
+	Label:	"Central Florida Herbaceous Seep"
+	MinNum:	227.00000000000000
+	MaxNum:	227.00000000000000
+	Precision:	-3
+)
+
+(LClass.964
+	Label:	"Floridian Highlands Freshwater Marsh"
+	MinNum:	228.00000000000000
+	MaxNum:	228.00000000000000
+	Precision:	-3
+)
+
+(LClass.965
+	Label:	"South Florida Freshwater Slough and Gator Hole"
+	MinNum:	229.00000000000000
+	MaxNum:	229.00000000000000
+	Precision:	-3
+)
+
+(LClass.966
+	Label:	"Southern Coastal Plain Herbaceous Seepage Bog"
+	MinNum:	231.00000000000000
+	MaxNum:	231.00000000000000
+	Precision:	-3
+)
+
+(LClass.967
+	Label:	"East Gulf Coastal Plain Treeless Savanna and Wet Prairie"
+	MinNum:	233.00000000000000
+	MaxNum:	233.00000000000000
+	Precision:	-3
+)
+
+(LClass.968
+	Label:	"South Florida Wet Marl Prairie"
+	MinNum:	234.00000000000000
+	MaxNum:	234.00000000000000
+	Precision:	-3
+)
+
+(LClass.969
+	Label:	"East Gulf Coastal Plain Large River Floodplain Forest - Herbaceous Modifier"
+	MinNum:	238.00000000000000
+	MaxNum:	238.00000000000000
+	Precision:	-3
+)
+
+(LClass.970
+	Label:	"South-Central Interior Large Floodplain - Herbaceous Modifier"
+	MinNum:	240.00000000000000
+	MaxNum:	240.00000000000000
+	Precision:	-3
+)
+
+(LClass.971
+	Label:	"Atlantic Coastal Plain Central Salt and Brackish Tidal Marsh"
+	MinNum:	245.00000000000000
+	MaxNum:	245.00000000000000
+	Precision:	-3
+)
+
+(LClass.972
+	Label:	"Atlantic Coastal Plain Embayed Region Tidal Salt and Brackish Marsh"
+	MinNum:	246.00000000000000
+	MaxNum:	246.00000000000000
+	Precision:	-3
+)
+
+(LClass.973
+	Label:	"Atlantic Coastal Plain Indian River Lagoon Tidal Marsh"
+	MinNum:	247.00000000000000
+	MaxNum:	247.00000000000000
+	Precision:	-3
+)
+
+(LClass.974
+	Label:	"Atlantic Coastal Plain Northern Tidal Salt Marsh"
+	MinNum:	248.00000000000000
+	MaxNum:	248.00000000000000
+	Precision:	-3
+)
+
+(LClass.975
+	Label:	"Florida Big Bend Salt-Brackish Tidal Marsh"
+	MinNum:	249.00000000000000
+	MaxNum:	249.00000000000000
+	Precision:	-3
+)
+
+(LClass.976
+	Label:	"Mississippi Sound Salt and Brackish Tidal Marsh"
+	MinNum:	250.00000000000000
+	MaxNum:	250.00000000000000
+	Precision:	-3
+)
+
+(LClass.977
+	Label:	"South Florida Everglades Sawgrass Marsh"
+	MinNum:	251.00000000000000
+	MaxNum:	251.00000000000000
+	Precision:	-3
+)
+
+(LClass.978
+	Label:	"Southern and Central Appalachian Oak Forest - Xeric"
+	MinNum:	253.00000000000000
+	MaxNum:	253.00000000000000
+	Precision:	-3
+)
+
+(LClass.979
+	IsNoData:	1
+	Label:	"No Data"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(BShSym.980
+	Color:	981
+	Outline:	1
+	OutlineColor:	982
+	OutlineWidth:	0.10000000000000
+	BgColor:	983
+)
+
+(TClr.981
+	Name:	"Transparent"
+)
+
+(TClr.982
+)
+
+(TClr.983
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.984
+)
+
+(NameDict.985
+)
+
+(GLegExt.986
+	MinBrightness:	20.00000000000000
+	MaxBrightness:	80.00000000000000
+	ZScale:	1.00000000000000
+)
+
